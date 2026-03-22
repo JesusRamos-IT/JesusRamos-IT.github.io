@@ -1,3 +1,10 @@
+---
+layout: default
+title: "🛡️ ISO27001 Framework"
+subtitle: "Controles organizativos, personas y tecnológicos"
+header_image: "/assets/images/Fondo_01.jpg"
+---
+
 # 📊 Gestión de Procesos Operativos
 
 Este directorio centraliza la documentación relativa a la gobernanza IT, estandarización de procesos y plantillas administrativas necesarias para una gestión de infraestructuras ordenada y profesional.
