@@ -1,18 +1,16 @@
 ---
 ---
 
+// Usamos el selector exacto que usa el tema Slate
+---
+---
 @import "jekyll-theme-slate";
 
-// Usamos el selector exacto que usa el tema Slate
 .page-header {
   background-image: url("{{ '/assets/images/header_bg.png' | relative_url }}") !important;
   background-size: cover !important;
   background-position: center !important;
   background-repeat: no-repeat !important;
-  // Añadimos un color de fondo oscuro por si la imagen tarda en cargar
-  background-color: #151718 !important;
-  // Un poco más de aire arriba y abajo para que luzca el rack
-  padding: 5rem 6rem !important;
 }
 
 // Para que tu nombre resalte sobre las luces azules
