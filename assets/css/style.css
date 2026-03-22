@@ -86,3 +86,17 @@ body {
     border-left: 5px solid var(--primary-blue);
     box-shadow: 0 2px 8px rgba(0,0,0,0.05);
 }
+/* Estilos para que los enlaces parezcan tarjetas */
+.category-card {
+    text-decoration: none; /* Quita el subrayado */
+    color: inherit;       /* Mantiene el color del texto */
+    display: block;       /* Hace que toda la tarjeta sea clickable */
+    transition: all 0.3s ease; /* Suaviza la animación */
+}
+
+/* Efecto Hover: se levanta un poco y resalta el borde */
+.category-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 15px rgba(0,0,0,0.1);
+    border-left: 5px solid #0070f3; /* Tu azul principal */
+}
