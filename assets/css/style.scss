@@ -3,10 +3,13 @@
 @import "jekyll-theme-slate";
 
 .page-header {
-  background-image: url("{{ '/assets/images/header_bg.png' | relative_url }}") !important;
+  // Usamos la ruta absoluta de tu GitHub Pages
+  background-image: url("https://jesusramos-it.github.io/assets/images/header_bg.png") !important;
   background-size: cover !important;
   background-position: center !important;
   background-repeat: no-repeat !important;
+  background-color: #151718 !important;
+  padding: 5rem 6rem !important;
 }
 
 .project-name, .project-tagline {
