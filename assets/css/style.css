@@ -100,3 +100,24 @@ body {
     box-shadow: 0 8px 15px rgba(0,0,0,0.1);
     border-left: 5px solid #0070f3; /* Tu azul principal */
 }
+/* Ajuste para cabeceras internas (un poco más bajas para no cansar) */
+.internal-header {
+    height: 300px !important;
+}
+
+/* Estilo para el contenido de Markdown */
+.markdown-body h1, .markdown-body h2 {
+    border-bottom: 1px solid #eaecef;
+    padding-bottom: 10px;
+    margin-top: 24px;
+}
+
+.markdown-body p {
+    line-height: 1.6;
+}
+
+/* Para que las imágenes que subas en el Markdown no se desmadren */
+.markdown-body img {
+    max-width: 100%;
+    border-radius: 8px;
+}
