@@ -1,3 +1,10 @@
+---
+layout: default
+title: "🛠️ SysAdmin Playbooks"
+subtitle: "Controles organizativos, personas y tecnológicos"
+header_image: "/assets/images/Fondo_03.jpg"
+---
+
 # 🛠️ SysAdmin Playbooks
 
 Repositorio técnico de laboratorios, guías de configuración y playbooks de automatización. Aquí se documenta el despliegue y mantenimiento de infraestructuras híbridas (Linux/Windows) y redes.
