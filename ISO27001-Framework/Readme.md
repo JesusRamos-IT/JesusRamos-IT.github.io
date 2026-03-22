@@ -1,4 +1,9 @@
-
+---
+layout: default
+title: "🛡️ ISO27001 Framework"
+subtitle: "Controles organizativos, personas y tecnológicos"
+header_image: "/assets/images/Fondo_01.jpg"
+---
 
 # 📑 Framework de Controles ISO 27001:2022
 
