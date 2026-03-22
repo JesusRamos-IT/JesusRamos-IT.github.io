@@ -1,3 +1,10 @@
+---
+layout: default
+title: "🪟 Windows Infrastructure"
+subtitle: "Controles organizativos, personas y tecnológicos"
+header_image: "/assets/images/Fondo_03.jpg"
+---
+
 ## 🪟 Windows Infrastructure
 Administración de entornos Windows Server y servicios de Directorio Activo.
 
