@@ -1,0 +1,18 @@
+// Asegúrate de importar el tema Slate primero si no lo tienes
+// Si usas styles.css normal, sáltate esta línea de import
+@import "{{ site.theme }}";
+
+// Aquí está la magia:
+header {
+  // Sustituimos el degradado por tu imagen.
+  // Usamos cover para que se adapte y no se repita.
+  background-image: url("{{ '/assets/images/header-bg.png' | relative_url }}") !important;
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+
+  // Opcional: añadimos una pequeña sombra al texto para que se lea mejor sobre la imagen
+  h1, h2 {
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.8);
+  }
+}
