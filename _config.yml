@@ -1,8 +1,0 @@
-title: "Juan Jesús Ramos Sosa"
-description: "Systems Administrator | Cybersecurity"
-baseurl: "" # Déjalo vacío
-url: "https://jesusramos-it.github.io"
-
-# Esto le dice a Jekyll que use nuestra carpeta de assets
-sass:
-  style: :compressed
