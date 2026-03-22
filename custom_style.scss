@@ -1,0 +1,15 @@
+---
+---
+@import "jekyll-theme-slate";
+
+.page-header {
+  background-image: url("https://jesusramos-it.github.io/assets/images/header_bg.png") !important;
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  padding: 5rem 6rem !important;
+}
+
+.project-name, .project-tagline {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8) !important;
+}
