@@ -155,3 +155,37 @@ div#header h1,
 header[role="banner"] h1 {
   color: white !important;
 }
+/* =========================================================================
+   FORZADO DE IMAGEN PARA SECCIONES INTERNAS (README.md)
+   Este bloque inyecta tu Datacenter en las cabeceras grises de GitHub
+   ========================================================================= */
+
+/* Selector para cabeceras de directorios/proyectos por defecto */
+div#header, 
+header[role="banner"],
+.site-header {
+  /* Imagen del Datacenter con ruta absoluta segura */
+  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), 
+                    url('/assets/images/header_bg.png') !important;
+  
+  /* Ajustes para que la imagen se vea perfecta */
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-color: transparent !important; /* Quita el gris de fondo */
+  
+  /* Un poco de sombra al texto para que resalte sobre la imagen */
+  text-shadow: 2px 2px 5px rgba(0,0,0,0.8);
+  
+  /* Altura profesional para la cabecera interna */
+  height: 250px !important; 
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+/* Ajuste de color para los textos internos sobre la imagen */
+div#header h1, 
+header[role="banner"] h1 {
+  color: white !important;
+}
