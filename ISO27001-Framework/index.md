@@ -1,9 +1,3 @@
----
-layout: null
----
-
-
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
