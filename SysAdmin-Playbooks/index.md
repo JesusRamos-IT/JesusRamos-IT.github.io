@@ -2,7 +2,6 @@
 layout: default
 title: "🛠️ SysAdmin Playbooks"
 subtitle: "Controles organizativos, personas y tecnológicos"
-header_image: "/assets/images/Fondo_01.jpg"
 ---
 
 # 🛠️ SysAdmin Playbooks
