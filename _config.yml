@@ -1,11 +1,10 @@
-# Configuración global mínima
 title: "Juan Jesús Ramos Sosa"
 description: "SysAdmin & Cybersecurity"
-baseurl: "" # Déjalo vacío
+baseurl: "" 
 url: "https://jesusramos-it.github.io"
 
-# La solución mágica está aquí:
-# Le decimos a Jekyll que cargue nuestro CSS personalizado 
-# ANTES que el predeterminado de GitHub.
+# ESTO ES LO QUE FALTA (El motor)
+theme: jekyll-theme-slate
+
 sass:
   style: :compressed
