@@ -13,6 +13,7 @@ Este directorio centraliza la documentación detallada de los 29 anexos de segur
 Para cada control se han definido niveles de complejidad y alcances de aplicación:
 
 ### 🎯 Alcance del Control
+
 | Siglas | Alcance | Descripción |
 | :--- | :--- | :--- |
 | **PRO** | **Procesos** | Orientado a la dirección, gestión y cumplimiento legal. |
