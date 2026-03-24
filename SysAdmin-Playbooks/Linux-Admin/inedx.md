@@ -17,4 +17,4 @@ Foco principal en la certificación **RHCSA** y administración de sistemas RHEL
 
 ---
 ## ⬅️ Navegación
-[Volver al Índice Principal](https://jesusramos-tec.github.io/)
+[Volver al Índice Principal](https://jesusramos-it.github.io/)
