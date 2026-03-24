@@ -72,7 +72,3 @@ Para cada control se han definido niveles de complejidad y alcances de aplicaci�
 * [Anexo 20: Auditorías de Sistema](./Modulo4-Controles-Tecnologicos/ANX-20-Auditorias-Sistema.md)
 * [Anexo 24: Gestión de Logs](./Modulo4-Controles-Tecnologicos/ANX-24-Gestion-Logs.md)
 * [Anexo 29: Técnicas Criptográficas](./Modulo4-Controles-Tecnologicos/ANX-29-Tecnicas-Criptograficas.md)
-
----
-
-[⬅ Volver al Índice Principal](/)
