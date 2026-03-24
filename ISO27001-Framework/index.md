@@ -22,6 +22,7 @@ layout: null
     <main class="container">
         <article class="card">
 
+            {% capture my_markdown %}
 # 📑 Framework de Controles ISO 27001:2022
 
 Este directorio contiene la documentación detallada de los 29 anexos de seguridad implementados, organizados en cuatro módulos operativos para facilitar su gestión y consulta técnica.
@@ -101,11 +102,14 @@ Para cada control se han definido niveles de complejidad y alcances de aplicaci�
 ## ⬅️ Navegación
 [Volver al Índice Principal](https://jesusramos-it.github.io/)
 
-</article>
-    </main>
-</body>
-</html>
 ---
 
 > [!IMPORTANT]
 > **Repositorio de uso personal.** Los controles aquí descritos forman parte del entorno de seguridad privada para la gestión de activos informáticos.
+
+{% endcapture %}
+            {{ my_markdown | markdownify }}
+            </article>
+    </main>
+</body>
+</html>
