@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "📊 Gestión de Procesos Operativos"
-subtitle: "Controles organizativos, personas y tecnológicos"
 ---
 
 # 📊 Gestión de Procesos Operativos
@@ -15,8 +14,3 @@ Este directorio centraliza la documentación relativa a la gobernanza IT, estand
 | **📑 Pantillas y Actas** | Modelos para reuniones técnicas, control de cambios y actas operativas. | [](./Pantillas-Actas/) |
 | **📜 Políticas** | Directivas generales de uso, seguridad y cumplimiento. | [](./Politicas/) |
 | **🛠️ SPOs** | Standard Operating Procedures (Procedimientos Operativos Estándar) para tareas recurrentes. | [](./SPOs/) |
-
----
-
-## ⬅️ Navegación
-[Volver al Índice Principal](https://jesusramos-it.github.io/)
