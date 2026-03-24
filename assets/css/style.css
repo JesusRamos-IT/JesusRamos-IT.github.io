@@ -130,3 +130,23 @@ div#header h1,
 header[role="banner"] h1 {
     color: white !important;
 }
+/* ==========================================================
+   FORZADO DE DATACENTER EN SECCIONES INTERNAS (SLATE THEME)
+   ========================================================== */
+
+/* Target directo a la cabecera que GitHub genera para los READMEs */
+.page-header {
+    background-color: #0d1117 !important; /* Color de seguridad oscuro */
+    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), 
+                      url('/assets/images/header_bg.png') !important;
+    background-size: cover !important;
+    background-position: center !important;
+    padding: 5rem 2rem !important; /* Más espacio para que luzca la imagen */
+    border-bottom: none !important;
+}
+
+/* Forzamos el blanco en los textos de las cabeceras internas */
+.project-name, .project-tagline {
+    color: #ffffff !important;
+    text-shadow: 2px 2px 10px rgba(0,0,0,0.8) !important;
+}
