@@ -1,10 +1,4 @@
 title: "Juan Jesús Ramos Sosa"
 description: "SysAdmin & Cybersecurity"
-baseurl: "" 
+baseurl: ""
 url: "https://jesusramos-it.github.io"
-
-# ESTO ES LO QUE FALTA (El motor)
-theme: jekyll-theme-slate
-
-sass:
-  style: :compressed
