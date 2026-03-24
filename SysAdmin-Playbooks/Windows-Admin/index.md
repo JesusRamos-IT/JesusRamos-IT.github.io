@@ -19,4 +19,4 @@ Administración de entornos Windows Server y servicios de Directorio Activo.
 
 ---
 ## ⬅️ Navegación
-[Volver al Índice Principal](https://jesusramos-tec.github.io/)
+[Volver al Índice Principal](https://jesusramos-it.github.io/)
