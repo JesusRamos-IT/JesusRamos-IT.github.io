@@ -2,7 +2,7 @@
 layout: default
 title: "🛠️ SysAdmin Playbooks"
 subtitle: "Controles organizativos, personas y tecnológicos"
-header_image: "/assets/images/Fondo_03.jpg"
+header_image: "/assets/images/Fondo_01.jpg"
 ---
 
 # 🛠️ SysAdmin Playbooks
@@ -33,8 +33,3 @@ Administración de entornos Windows Server y servicios de Directorio Activo.
 
 ### 🌐 [Infraestructura de Red](./Infraestructura-Red/)
 * Diseños de segmentación, topologías y configuraciones de seguridad perimetral.
-
----
-
-## ⬅️ Navegación
-[Volver al Índice Principal](https://jesusramos-it.github.io/)
