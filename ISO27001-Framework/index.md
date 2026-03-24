@@ -81,7 +81,7 @@ Para cada control se han definido niveles de complejidad y alcances de aplicaci�
 
 ---
 ## ⬅️ Navegación
-[Volver al Índice Principal](https://jesusramos-tec.github.io/)
+[Volver al Índice Principal](https://jesusramos-it.github.io/)
 ---
 > [!IMPORTANT]
 > **Repositorio de uso personal.** Los controles aquí descritos forman parte del entorno de seguridad privada para la gestión de activos informáticos.
