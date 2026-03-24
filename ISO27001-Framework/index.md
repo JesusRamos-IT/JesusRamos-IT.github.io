@@ -80,8 +80,11 @@ Para cada control se han definido niveles de complejidad y alcances de aplicaci�
 * [Anexo 29: Técnicas Criptográficas](./Modulo4-Controles-Tecnologicos/ANX-29-Tecnicas-Criptograficas.md) 🔐
 
 ---
+
 ## ⬅️ Navegación
 [Volver al Índice Principal](https://jesusramos-it.github.io/)
+
 ---
+
 > [!IMPORTANT]
 > **Repositorio de uso personal.** Los controles aquí descritos forman parte del entorno de seguridad privada para la gestión de activos informáticos.
