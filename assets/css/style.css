@@ -1,9 +1,3 @@
----
----
-/* IMPORTANTE: Las dos líneas de guiones de arriba son el "ON" 
-   para que GitHub procese las rutas y las imágenes.
-*/
-
 :root {
     --primary-blue: #0070f3;
     --dark-bg: #0d1117;
@@ -19,38 +13,50 @@ body {
     color: var(--text-main);
 }
 
-/* 1. PORTADA (index.html) */
+/* LA CABECERA NINJA (La que funciona en la portada image_home_page.png) */
 .main-header {
     height: 450px;
-    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), 
-                      url('{{ "/assets/images/header_bg.png" | relative_url }}');
+    background-image: url('../images/header_bg.png'); /* Ruta relativa PROBADA */
     background-size: cover;
     background-position: center;
     position: relative;
+}
+
+.header-overlay {
+    background: rgba(0, 0, 0, 0.5); /* Capa oscura para que el texto resalte */
+    height: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
-}
-
-/* 2. SECCIONES INTERNAS (Slate Theme Force) */
-/* Forzamos el Datacenter en el encabezado que GitHub genera automáticamente */
-header, .page-header, div#header {
-    background-color: #0d1117 !important; /* Fondo de seguridad */
-    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), 
-                      url('{{ "/assets/images/header_bg.png" | relative_url }}') !important;
-    background-size: cover !important;
-    background-position: center !important;
-    padding: 4rem 2rem !important;
     text-align: center;
 }
 
-/* Ajuste de texto para que se lea sobre el Datacenter */
-header h1, .page-header h1, header h2 {
-    color: #ffffff !important;
-    text-shadow: 2px 2px 10px rgba(0,0,0,0.8) !important;
+.header-content h1 {
+    color: white;
+    font-size: 3rem;
+    margin: 0;
+    text-shadow: 2px 2px 10px rgba(0,0,0,0.8);
 }
 
-/* 3. CONTENEDORES Y TARJETAS */
+.tagline {
+    color: #e1e4e8;
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
+
+/* El botón de GitHub */
+.btn-github {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: var(--primary-blue);
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+}
+
+/* Contenido Principal */
 .container {
     max-width: 1000px;
     margin: -40px auto 50px auto;
@@ -58,12 +64,11 @@ header h1, .page-header h1, header h2 {
     padding: 0 20px;
 }
 
-.card, .markdown-body {
+.card {
     background: var(--card-bg);
     padding: 30px;
     border-radius: 12px;
     box-shadow: 0 10px 25px rgba(0,0,0,0.1);
-    border: 1px solid #e1e4e8;
 }
 
 .grid-categories {
@@ -74,30 +79,54 @@ header h1, .page-header h1, header h2 {
 }
 
 .category-card {
-    text-decoration: none;
-    color: inherit;
-    display: block;
     background: white;
     padding: 20px;
     border-radius: 8px;
     border-left: 5px solid var(--primary-blue);
     box-shadow: 0 2px 8px rgba(0,0,0,0.05);
-    transition: all 0.3s ease;
+    text-decoration: none; /* Quita el subrayado */
+    color: inherit;       /* Mantiene el color del texto */
+    display: block;       /* Hace que toda la tarjeta sea clickable */
+    transition: all 0.3s ease; /* Suaviza la animación */
 }
 
+/* Efecto Hover: se levanta un poco y resalta el borde */
 .category-card:hover {
     transform: translateY(-5px);
     box-shadow: 0 8px 15px rgba(0,0,0,0.1);
+    border-left: 5px solid #0070f3; /* Tu azul principal */
 }
 
-/* Botón de volver / GitHub */
-.btn-github, .btn {
-    display: inline-block;
-    background-color: var(--primary-blue);
+/* ⬇️⬇️⬇️ SOLUCIÓN QUIRÚRGICA PARA SECCIONES INTERNAS ⬇️⬇️⬇️ */
+/* -----------------------------------------------------------
+   Añadimos este bloque al final para forzar la imagen en las secciones,
+   pero de forma estática y robusta, sin romper nada.
+   ----------------------------------------------------------- */
+
+/* Selector para las cabeceras de directorios por defecto que genera GitHub */
+div#header, 
+header[role="banner"],
+.site-header {
+    /* Mágicamente, inyectamos la imagen con una URL ABSOLUTA y SEGURA */
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), 
+                      url('/assets/images/header_bg.png') !important;
+    
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-color: transparent !important; /* Quita el gris de fondo */
+    
+    /* Diseño profesional para las secciones internas */
+    text-align: center;
+    height: 250px !important; /* Altura de sección profesional */
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    text-shadow: 2px 2px 5px rgba(0,0,0,0.8);
+}
+
+/* Ajuste de color para los textos internos sobre la imagen */
+div#header h1, 
+header[role="banner"] h1 {
     color: white !important;
-    padding: 10px 20px;
-    border-radius: 6px;
-    text-decoration: none;
-    font-weight: bold;
-    margin-top: 15px;
 }
