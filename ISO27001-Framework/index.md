@@ -1,9 +1,26 @@
 ---
-layout: default
-title: "🛡️ ISO27001 Framework"
-subtitle: "Controles organizativos, personas y tecnológicos"
-header_image: "/assets/images/Fondo_01.jpg"
+layout: null
 ---
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <title>ISO27001 Framework</title>
+</head>
+<body>
+    <header class="main-header">
+        <div class="header-overlay">
+            <div class="header-content">
+                <h1>🛡️ ISO27001 Framework</h1>
+                <p class="tagline">Controles organizativos y tecnológicos</p>
+                <a href="/" class="btn-github">⬅ Volver al Índice</a>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <article class="card">
 
 # 📑 Framework de Controles ISO 27001:2022
 
@@ -84,6 +101,10 @@ Para cada control se han definido niveles de complejidad y alcances de aplicaci�
 ## ⬅️ Navegación
 [Volver al Índice Principal](https://jesusramos-it.github.io/)
 
+</article>
+    </main>
+</body>
+</html>
 ---
 
 > [!IMPORTANT]
