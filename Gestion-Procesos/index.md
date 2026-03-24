@@ -20,4 +20,4 @@ Este directorio centraliza la documentación relativa a la gobernanza IT, estand
 ---
 
 ## ⬅️ Navegación
-[Volver al Índice Principal](https://jesusramos-tec.github.io/)
+[Volver al Índice Principal](https://jesusramos-it.github.io/)
