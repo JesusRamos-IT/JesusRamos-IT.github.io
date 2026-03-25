@@ -39,7 +39,7 @@ Para optimizar el rendimiento y la seguridad del almacenamiento local, se establ
 ---
 
 ## ⬅️ Navegación
-[Volver al Índice ISO27001](https://jesusramos-tec.github.io/ISO27001-Framework/)
+[Volver al Índice ISO27001](https://jesusramos-it.github.io/ISO27001-Framework/)
 
 ---
 
