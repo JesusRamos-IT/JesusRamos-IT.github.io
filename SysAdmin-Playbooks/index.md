@@ -30,5 +30,5 @@ Administración de entornos Windows Server y servicios de Directorio Activo.
 | **🔄 Windows Update Services(WSUS)** | Centralización de actualizaciones. | [Explorar](./WSUS-Update-Services/) |
 | **🩺 Troubleshootings** | Errores de Microsoft Windows. | [Explorar](./Troubleshooting/) |
 
-### 🌐 [Infraestructura de Red](./Infraestructura-Red/)
+### 🌐 [Infraestructura de Red](./SysAdmin-Playbooks/Infraestructura-Red/Replanteo-Red-Core.md)
 * Diseños de segmentación, topologías y configuraciones de seguridad perimetral.
