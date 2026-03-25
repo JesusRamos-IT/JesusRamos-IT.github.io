@@ -2,8 +2,8 @@
 layout: default
 title: "🐧 Linux Administration"
 subtitle: "Controles organizativos, personas y tecnológicos"
-header_image: "/assets/images/Fondo_01.jpg"
 ---
+
 ## 🐧 Linux Administration
 Foco principal en la certificación **RHCSA** y administración de sistemas RHEL/Debian. Reune Labs RHEL 9.7, RHCSA, automatización con Ansible y el despliegue del SIEM Wazuh.
 
