@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "🐧 Linux Administration"
-subtitle: "Controles organizativos, personas y tecnológicos"
+subtitle: "Laboratorios, automatización y Monitorización"
 ---
 
 ## 🐧 Linux Administration
