@@ -1,3 +1,9 @@
+---
+layout: default
+title: "🛠️ SysAdmin Playbooks"
+subtitle: "Proyecto: Reingeniería de Infraestructura de Red y Segmentación Lógica"
+---
+
 # Proyecto: Reingeniería de Infraestructura de Red y Segmentación Lógica
 
 ## 🎯 Objeto del Proyecto
