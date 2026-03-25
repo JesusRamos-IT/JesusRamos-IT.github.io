@@ -62,6 +62,6 @@ Para soportes que salen de la organización o están averiados:
 ---
 
 ## ⬅️ Navegación
-[Volver al Índice ISO27001](https://jesusramos-tec.github.io/ISO27001-Framework/)
+[Volver al Índice ISO27001](https://jesusramos-it.github.io/ISO27001-Framework/)
 
 ---
