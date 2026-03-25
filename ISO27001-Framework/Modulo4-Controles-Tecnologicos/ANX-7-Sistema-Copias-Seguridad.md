@@ -53,7 +53,7 @@ Se emplearán, según la necesidad técnica, los siguientes métodos:
 ---
 
 ## ⬅️ Navegación
-[Volver al Índice ISO27001](https://jesusramos-tec.github.io/ISO27001-Framework/)
+[Volver al Índice ISO27001](https://jesusramos-it.github.io/ISO27001-Framework/)
 
 ---
 
