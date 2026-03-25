@@ -54,7 +54,7 @@ Una vez clasificada la información, se aplican los controles técnicos correspo
 ---
 
 ## ⬅️ Navegación
-[Volver al Índice ISO27001](https://jesusramos-tec.github.io/ISO27001-Framework/index.md)
+[Volver al Índice ISO27001](./ISO27001-Framework/index.md)
 
 ---
 > [!TIP]
