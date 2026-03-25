@@ -37,7 +37,7 @@ Para cada control se han definido niveles de complejidad y alcances de aplicaci�
 ## 👥 Módulo 2: Controles de Personas
 *Seguridad aplicada al factor humano y teletrabajo.*
 
-* [Anexo 05: Teletrabajo](./Modulo2-Controles-Personas/ANX-05-Teletrabajo.md)
+* [Anexo 05: Teletrabajo](./Modulo2-Controles-Personas/ANX-5-Teletrabajo.md)
 * [Anexo 25: Formación y Concienciación](./Modulo2-Controles-Personas/ANX-25-Formacion-Concienciacion.md)
 * [Anexo 26: Gestión de Recursos Humanos](./Modulo2-Controles-Personas/ANX-26-Gestion-Recursos-Humanos.md)
 
@@ -47,7 +47,7 @@ Para cada control se han definido niveles de complejidad y alcances de aplicaci�
 *Protección de activos físicos y entornos de trabajo locales.*
 
 * [Anexo 06: Protección del Puesto de Trabajo](./Modulo3-Controles-Fisicos-Puesto/ANX-06-Proteccion-Puesto-Trabajo.md)
-* [Anexo 09: Almacenamiento (equipo local)](./Modulo3-Controles-Fisicos-Puesto/ANX-09-Almacenamiento-Equipo-Local.md)
+* [Anexo 09: Almacenamiento (equipo local)](./Modulo3-Controles-Fisicos-Puesto/ANX-9-Almacenamiento-Equipo-Local.md)
 * [Anexo 11: Almacenamiento (dispositivos extraíbles)](./Modulo3-Controles-Fisicos-Puesto/ANX-11-Almacenamiento-Dispositivos-Extraíbles.md)
 * [Anexo 17: Dispositivos móviles (corporativos)](./Modulo3-Controles-Fisicos-Puesto/ANX-17-Dispositivos-Moviles-Corporativos.md)
 * [Anexo 18: Dispositivos móviles (no corporativos)](./Modulo3-Controles-Fisicos-Puesto/ANX-18-Dispositivos-Moviles-No-Corporativos.md)
@@ -58,11 +58,11 @@ Para cada control se han definido niveles de complejidad y alcances de aplicaci�
 *Infraestructura técnica, red, sistemas y cifrado.*
 
 * [Anexo 01: Acceso y Control a la Información](./Modulo4-Controles-Tecnologicos/ANX-01-Acceso-Control-Informacion.md)
-* [Anexo 02: Contraseñas](./Modulo4-Controles-Tecnologicos/ANX-02-Contraseñas.md)
-* [Anexo 03: Actualización de Software](./Modulo4-Controles-Tecnologicos/ANX-03-Actualizacion-Software.md)
-* [Anexo 04: Acceso desde Redes no Corporativas](./Modulo4-Controles-Tecnologicos/ANX-04-Acceso-Redes-No-Corporativas.md)
-* [Anexo 07: Sistema de Copias de Seguridad](./Modulo4-Controles-Tecnologicos/ANX-07-Sistema-Copias-Seguridad.md)
-* [Anexo 08: Borrado Seguro](./Modulo4-Controles-Tecnologicos/ANX-08-Borrado-Seguro.md)
+* [Anexo 02: Contraseñas](./Modulo4-Controles-Tecnologicos/ANX-2-Contraseñas.md)
+* [Anexo 03: Actualización de Software](./Modulo4-Controles-Tecnologicos/ANX-3-Actualizacion-Software.md)
+* [Anexo 04: Acceso desde Redes no Corporativas](./Modulo4-Controles-Tecnologicos/ANX-4-Acceso-Redes-No-Corporativas.md)
+* [Anexo 07: Sistema de Copias de Seguridad](./Modulo4-Controles-Tecnologicos/ANX-7-Sistema-Copias-Seguridad.md)
+* [Anexo 08: Borrado Seguro](./Modulo4-Controles-Tecnologicos/ANX-8-Borrado-Seguro.md)
 * [Anexo 10: Almacenamiento (red corporativa)](./Modulo4-Controles-Tecnologicos/ANX-10-Almacenamiento-Red-Corporativa.md)
 * [Anexo 12: Almacenamiento (en la nube)](./Modulo4-Controles-Tecnologicos/ANX-12-Almacenamiento-Nube.md)
 * [Anexo 13: Aplicaciones Permitidas](./Modulo4-Controles-Tecnologicos/ANX-13-Aplicaciones-Permitidas.md)
