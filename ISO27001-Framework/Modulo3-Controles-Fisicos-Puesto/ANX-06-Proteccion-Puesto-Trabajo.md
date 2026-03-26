@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Anexo 06: Puesto de Trabajo"
+subtitle: "Seguridad física y lógica del entorno local"
+---
+
 # Anexo 6: Protección del Puesto de Trabajo
 
 ## 🎯 Objetivo
