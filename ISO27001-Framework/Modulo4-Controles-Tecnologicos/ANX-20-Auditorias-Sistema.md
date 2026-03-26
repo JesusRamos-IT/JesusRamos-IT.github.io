@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Anexo 20: Auditoría Técnica"
+subtitle: "Verificación y control de infraestructuras"
+---
+
 # Anexo 20: Auditoría de Sistemas y Mejora Continua
 
 ## 🎯 Objetivo
