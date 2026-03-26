@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Anexo 24: Trazabilidad y Logs"
+subtitle: "Monitorización y registro de eventos"
+---
+
 # Anexo 24: Gestión de Logs y Monitorización
 
 ## 🎯 Objetivo
