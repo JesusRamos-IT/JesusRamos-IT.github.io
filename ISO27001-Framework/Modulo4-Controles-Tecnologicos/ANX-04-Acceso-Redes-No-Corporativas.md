@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Anexo 04: Acceso Remoto"
+subtitle: "Seguridad en redes no corporativas y VPN"
+---
+
 # Anexo 04: Acceso desde Redes no Corporativas
 
 ## 🎯 Objetivo
