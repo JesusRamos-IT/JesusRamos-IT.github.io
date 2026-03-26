@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Anexo 26: Seguridad en RRHH"
+subtitle: "Ciclo de vida del empleado y responsabilidades"
+---
+
 # Anexo 26: Gestión de Recursos Humanos y Seguridad
 
 ## 🎯 Objetivo
