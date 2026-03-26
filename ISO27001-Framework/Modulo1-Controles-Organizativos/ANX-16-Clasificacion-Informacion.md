@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Anexo 16: Clasificación"
+subtitle: "Etiquetado y manejo de activos de información"
+---
+
 # Anexo 16: Clasificación de la Información
 
 ## 🎯 Objetivo
