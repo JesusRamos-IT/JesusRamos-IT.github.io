@@ -68,7 +68,5 @@ IT mantendrá un listado de software validado para tareas de cifrado (ej. BitLoc
 ---
 
 ## ⬅️ Navegación
-[Volver al Índice ISO27001](https://jesusramos-it.github.io/ISO27001-Framework/)
-
----
-
+* [Volver al Índice del Framework](../index.md)
+* [Volver a la Portada Principal](../../index.md)
