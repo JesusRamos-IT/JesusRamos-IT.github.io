@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Anexo 27: Proveedores"
+subtitle: "Seguridad en la cadena de suministro"
+---
+
 # Anexo 27: Relación con Proveedores
 
 ## 🎯 Objetivo
