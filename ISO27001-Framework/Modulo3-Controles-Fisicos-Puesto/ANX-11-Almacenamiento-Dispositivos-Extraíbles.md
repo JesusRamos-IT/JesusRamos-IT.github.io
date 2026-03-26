@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Anexo 11: Medios Extraíbles"
+subtitle: "Gestión de USBs y discos externos"
+---
+
 # Anexo 11: Almacenamiento en Dispositivos Extraíbles
 
 ## 🎯 Objetivo
