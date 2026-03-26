@@ -56,7 +56,8 @@ Si se autoriza el uso de ordenadores personales, el usuario asume la responsabil
 ---
 
 ## ⬅️ Navegación
-[Volver al Índice ISO27001](https://jesusramos-it.github.io/ISO27001-Framework/)
+* [Volver al Índice del Framework](../index.md)
+* [Volver a la Portada Principal](../../index.md)
 
 ---
 
