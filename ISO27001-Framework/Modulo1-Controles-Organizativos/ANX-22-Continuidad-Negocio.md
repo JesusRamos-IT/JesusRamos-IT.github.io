@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Anexo 22: Continuidad"
+subtitle: "Resiliencia y planes de recuperación (DRP)"
+---
+
 # Anexo 22: Continuidad de Negocio (PCN)
 
 ## 🎯 Objetivo
