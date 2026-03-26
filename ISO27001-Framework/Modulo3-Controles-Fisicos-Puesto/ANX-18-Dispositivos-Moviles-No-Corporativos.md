@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Anexo 18: BYOD / Personales"
+subtitle: "Seguridad en acceso desde equipos externos"
+---
+
 # Anexo 18: Política de Dispositivos Personales (BYOD)
 
 ## 🎯 Objetivo
