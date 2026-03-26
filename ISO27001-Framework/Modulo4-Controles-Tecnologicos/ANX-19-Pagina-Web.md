@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Anexo 19: Seguridad Web"
+subtitle: "Protección de activos online y protocolos"
+---
+
 # Anexo 19: Seguridad en Aplicaciones y Portales Web
 
 ## 🎯 Objetivo
