@@ -53,4 +53,5 @@ Toda información almacenada en la red corporativa está integrada en el **Plan 
 ---
 
 ## ⬅️ Navegación
-[Volver al Índice ISO27001](https://jesusramos-it.github.io/ISO27001-Framework/)
+* [Volver al Índice del Framework](../index.md)
+* [Volver a la Portada Principal](../../index.md)
