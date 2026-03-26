@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "🛠️ SysAdmin Playbooks"
-subtitle: "Controles organizativos, personas y tecnológicos"
+subtitle: "Infraestructura, Automatización y Laboratorios RHEL/Windows"
 ---
 
 # 🛠️ SysAdmin Playbooks
