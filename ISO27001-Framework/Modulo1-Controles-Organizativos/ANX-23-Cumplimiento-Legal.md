@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Anexo 23: Cumplimiento"
+subtitle: "Marco legal, RGPD y normativas vigentes"
+---
+
 # Anexo 23: Cumplimiento Legal y Normativo
 
 ## 🎯 Objetivo
