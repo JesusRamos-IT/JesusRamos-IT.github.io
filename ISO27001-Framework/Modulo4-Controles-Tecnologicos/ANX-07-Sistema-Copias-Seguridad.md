@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Anexo 07: Backup y Recuperación"
+subtitle: "Integridad y disponibilidad de los datos"
+---
+
 # Anexo 07: Sistema de Copias de Seguridad (Backup)
 
 ## 🎯 Objetivo
