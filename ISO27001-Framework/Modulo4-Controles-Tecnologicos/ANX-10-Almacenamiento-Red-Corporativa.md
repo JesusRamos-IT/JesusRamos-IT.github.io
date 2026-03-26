@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Anexo 10: Almacenamiento en Red"
+subtitle: "Seguridad en recursos compartidos (NAS/SAN)"
+---
+
 # Anexo 10: Almacenamiento en Red Corporativa
 
 ## 🎯 Objetivo
