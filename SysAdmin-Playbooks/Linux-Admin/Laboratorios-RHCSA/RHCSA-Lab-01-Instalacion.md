@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "RHCSA: Laboratorio 01"
-subtitle: "Instalación de RHEL 9 sobre Proxmox"
+subtitle: "Instalación de RHEL 9 sobre Proxmox VE 9"
 ---
 
 # 🐧 Lab 01: Instalación y Configuración Base de RHEL 9.7
