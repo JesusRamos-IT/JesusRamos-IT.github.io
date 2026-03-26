@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Anexo 01: Política de Contraseñas"
+subtitle: "Directivas de robustez y autenticación""
+---
+
 # Anexo 02: Política de Contraseñas
 
 ## 🎯 Objetivo
