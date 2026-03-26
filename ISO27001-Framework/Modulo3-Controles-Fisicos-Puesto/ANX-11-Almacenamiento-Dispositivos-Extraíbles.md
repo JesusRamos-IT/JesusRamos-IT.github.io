@@ -55,7 +55,8 @@ Para reducir el riesgo de pérdida de datos o infección por malware, se fomenta
 ---
 
 ## ⬅️ Navegación
-[Volver al Índice ISO27001](https://jesusramos-it.github.io/ISO27001-Framework/)
+* [Volver al Índice del Framework](../index.md)
+* [Volver a la Portada Principal](../../index.md)
 
 ---
 
