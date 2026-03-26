@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Anexo 28: Plan de Seguridad"
+subtitle: "Estrategia global y directrices del SGSI"
+---
+
 # Anexo 28: Plan de Seguridad (PDS)
 
 ## 🎯 Objetivo
