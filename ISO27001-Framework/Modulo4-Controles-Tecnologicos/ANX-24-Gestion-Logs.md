@@ -51,9 +51,8 @@ Cada registro generado debe incluir, como mínimo, la siguiente información par
 ---
 
 ## ⬅️ Navegación
-[Volver al Índice ISO27001](https://jesusramos-it.github.io/ISO27001-Framework/)
-
----
+* [Volver al Índice del Framework](../index.md)
+* [Volver a la Portada Principal](../../index.md)
 
 
 ## 🚀 Implementación Técnica Recomendada
