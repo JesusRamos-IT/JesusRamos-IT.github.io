@@ -1,3 +1,9 @@
+---
+layout: default
+title: "RHCSA: Laboratorio 01"
+subtitle: "Instalación de RHEL 9 sobre Proxmox"
+---
+
 # 🐧 Lab 01: Instalación y Configuración Base de RHEL 9.7
 
 Este manual documenta el proceso detallado de instalación, configuración inicial y preparación del entorno de laboratorio para la certificación **RHCSA**.
@@ -84,6 +90,5 @@ sudo nmcli con up ens18
 ---
 
 ## ⬅️ Navegación
-[Volver al Índice SysAdmin-Playbooks](https://jesusramos-tec.github.io/SysAdmin-Playbooks/)
-
----
+* [Volver a Linux Admin](../index.md)
+* [Volver al Inicio de Playbooks](../../index.md)
