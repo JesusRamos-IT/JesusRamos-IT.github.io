@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Anexo 05: Teletrabajo"
+subtitle: "Seguridad en entornos remotos y movilidad"
+---
+
 # Anexo 05: Teletrabajo
 
 ## 🎯 Objetivo
