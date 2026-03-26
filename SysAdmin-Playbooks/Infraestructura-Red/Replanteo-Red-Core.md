@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "🛠️ SysAdmin Playbooks"
+title: "🌐 Replanteo y segmentación de Red Corporativa"
 subtitle: "Proyecto: Reingeniería de Infraestructura de Red y Segmentación Lógica"
 ---
 
@@ -49,3 +49,7 @@ La infraestructura se distribuye en una arquitectura de **Estrella Extendida** m
 * **Aislamiento de Tráfico:** El tráfico de cámaras (CCTV) y producción no tiene visibilidad sobre la red de gestión.
 * **Control de Acceso:** Implementación de listas de control de acceso (ACLs) en el firewall perimetral.
 * **Resiliencia:** Conectividad redundante entre naves para asegurar la continuidad del negocio ante fallos de enlace.
+
+---
+## ⬅️ Navegación
+* [Volver al Inicio de Playbooks](../../index.md)
