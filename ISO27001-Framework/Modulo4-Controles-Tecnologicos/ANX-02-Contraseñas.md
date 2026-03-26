@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Anexo 02: Política de Contraseñas"
-subtitle: "Directivas de robustez y autenticación""
+subtitle: "Directivas de robustez y autenticación"
 ---
 
 # Anexo 02: Política de Contraseñas
