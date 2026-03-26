@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Anexo 01: Acceso y Control"
+subtitle: "Gestión de identidades y privilegios"
+---
+
 # Anexo 01: Acceso y Control a la Información
 
 ## 🎯 Objetivo
@@ -67,7 +73,8 @@ Al finalizar la relación con la organización, se ejecutarán de inmediato las 
 ---
 
 ## ⬅️ Navegación
-[Volver al Índice ISO27001](https://jesusramos-it.github.io/ISO27001-Framework/)
+* [Volver al Índice del Framework](../index.md)
+* [Volver a la Portada Principal](../../index.md)
 
 ---
 
