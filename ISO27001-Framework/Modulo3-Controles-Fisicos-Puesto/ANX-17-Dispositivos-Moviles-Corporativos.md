@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Anexo 17: Móviles Corporativos"
+subtitle: "Políticas MDM y control de activos propios"
+---
+
 # Anexo 17: Gestión de Dispositivos Móviles Corporativos
 
 ## 🎯 Objetivo
