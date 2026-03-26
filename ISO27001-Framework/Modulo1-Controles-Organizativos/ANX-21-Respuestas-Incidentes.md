@@ -1,4 +1,10 @@
-# Anexo 21: Respuesta a Incidentes de Seguridad
+---
+layout: default
+title: "Anexo 21: Respuesta a Incidentes"
+subtitle: "Gestión de seguridad y continuidad operativa"
+---
+
+# 📑 Anexo 21: Respuesta a Incidentes de Seguridad
 
 ## 🎯 Objetivo
 Garantizar que la organización cuenta con un procedimiento rápido, eficaz y documentado para actuar ante cualquier incidente de seguridad, minimizando el impacto y evitando su repetición en el futuro.
@@ -6,9 +12,9 @@ Garantizar que la organización cuenta con un procedimiento rápido, eficaz y do
 ---
 
 ## 👥 Equipo Responsable
-La gestión de incidentes no es solo una tarea técnica; requiere coordinación en dos niveles:
-* **Personal Técnico:** Encargados de la contención, resolución y análisis forense (pueden ser internos o soporte externo).
-* **Dirección:** Personal responsable de la toma de decisiones estratégicas y de estar informado sobre el estado crítico del incidente.
+La gestión de incidentes requiere coordinación en dos niveles:
+* **Personal Técnico:** Encargados de la contención, resolución y análisis forense.
+* **Dirección:** Responsables de la toma de decisiones estratégicas y seguimiento crítico.
 
 ---
 
@@ -18,23 +24,14 @@ La gestión de incidentes no es solo una tarea técnica; requiere coordinación 
 Identificación de situaciones anómalas y categorización según su tipología y criticidad (Baja, Media, Alta, Crítica).
 
 ### 2. Resolución y Contención
-Para cada tipo de incidente (malware, acceso no autorizado, fuga de datos, etc.), se seguirán acciones específicas:
-* **Recogida de Evidencias:** Captura de pruebas inmediatamente después del incidente, garantizando la **cadena de custodia** y la integridad de los datos.
-* **Contención:** Ejecución de medidas para reparar o mitigar los daños (aislamiento de redes, apagado de servidores, etc.).
-* **Análisis Forense:** Estudio profundo del origen del ataque cuando sea preciso.
-* **Escalado:** Protocolo de aviso a niveles superiores si el incidente supera la capacidad de resolución técnica inicial.
+* **Recogida de Evidencias:** Captura de pruebas garantizando la **cadena de custodia**.
+* **Contención:** Aislamiento de redes, apagado de servicios o mitigación de daños.
+* **Análisis Forense:** Estudio del origen del ataque cuando sea preciso.
+* **Escalado:** Aviso a niveles superiores si se supera la capacidad técnica inicial.
 
 ### 3. Registro del Incidente
-Cada evento debe quedar documentado con la siguiente información mínima:
-* Fecha y hora (inicio y resolución).
-* Gravedad y recursos afectados.
-* Acciones ejecutadas y personal involucrado.
-* Estado actual y cierre oficial.
-
----
-
-## ⚖️ Cumplimiento Legal (RGPD)
-En caso de que el incidente suponga una **brecha de seguridad de datos personales**, se activará el protocolo de notificación a la Agencia Española de Protección de Datos (AEPD) y a los interesados según los plazos legales establecidos.
+Documentación mínima obligatoria:
+* Fecha/hora, gravedad, recursos afectados y acciones ejecutadas.
 
 ---
 
@@ -44,21 +41,21 @@ En caso de que el incidente suponga una **brecha de seguridad de datos personale
 | :---: | :---: | :--- | :---: |
 | **B** | **PRO** | Designación del equipo responsable de gestión de incidentes. | ☐ |
 | **B** | **PRO** | Proceso de Mejora Continua basado en lecciones aprendidas. | ☐ |
-| **B** | **PRO** | Revisión periódica del plan de gestión (Caducidad: __________). | ☐ |
-| **B** | **TEC** | Definición de criterios para la detección y evaluación de incidentes. | ☐ |
+| **B** | **PRO** | Revisión periódica del plan de gestión. | ☐ |
+| **B** | **TEC** | Definición de criterios para la detección y evaluación. | ☐ |
 | **B** | **TEC** | Protocolo de notificación interna y externa. | ☐ |
-| **A** | **TEC** | Procedimientos detallados de resolución por tipología de incidente. | ☐ |
-| **B** | **TEC** | Registro sistemático de toda la gestión del incidente. | ☐ |
-| **B** | **PRO** | Cumplimiento del RGPD en notificaciones de brechas de privacidad. | ☐ |
+| **A** | **TEC** | Procedimientos detallados por tipología de incidente. | ☐ |
+| **B** | **TEC** | Registro sistemático de toda la gestión. | ☐ |
+| **B** | **PRO** | Cumplimiento del RGPD (notificación brechas AEPD). | ☐ |
 
-**Revisado por:** ___________________________  
-**Fecha:** __________
+
 
 ---
 
 ## ⬅️ Navegación
-[Volver al Índice ISO27001](https://jesusramos-it.github.io/ISO27001-Framework/)
+* [Volver al Índice del Framework](../index.md)
+* [Volver a la Portada Principal](../../index.md)
 
 ---
 > [!TIP]
-> **Lecciones Aprendidas:** Un incidente no termina cuando se soluciona el problema técnico. Termina cuando se analiza la causa raíz y se aplica un cambio en el sistema para que no vuelva a ocurrir.
+> **Lecciones Aprendidas:** Un incidente termina cuando se analiza la causa raíz y se aplica un cambio en el sistema para que no vuelva a ocurrir.
