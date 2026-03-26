@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Anexo 09: Equipo Local"
+subtitle: "Control de almacenamiento en estaciones"
+---
+
+
 # ANX-09: Almacenamiento en Equipo Local
 
 ## 🎯 Objetivo
