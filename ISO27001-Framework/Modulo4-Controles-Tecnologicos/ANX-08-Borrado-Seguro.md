@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Anexo 08: Destrucción de Datos"
+subtitle: "Eliminación segura de información sensible"
+---
+
 # Anexo 8: Política de Borrado Seguro y Destrucción de Soportes
 
 ## 🎯 Objetivo
