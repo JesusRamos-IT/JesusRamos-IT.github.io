@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Anexo 15: Seguridad en Email"
+subtitle: "Protección contra Phishing y Spam"
+---
+
 # Anexo 15: Normativa de Uso del Correo Electrónico Corporativo
 
 ## 🎯 Objetivo
