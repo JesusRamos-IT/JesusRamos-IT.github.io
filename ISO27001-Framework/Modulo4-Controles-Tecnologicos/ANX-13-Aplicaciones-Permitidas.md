@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Anexo 13: Software Autorizado"
+subtitle: "Control de aplicaciones y Whitelisting"
+---
+
 # Anexo 13: Gestión de Software y Aplicaciones Autorizadas
 
 ## 🎯 Objetivo
