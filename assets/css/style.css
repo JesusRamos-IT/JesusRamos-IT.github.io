@@ -170,3 +170,17 @@ header[role="banner"] h1 {
     color: #ffffff !important;
     text-shadow: 2px 2px 10px rgba(0,0,0,0.8) !important;
 }
+
+/* ==========================================================
+   GPO DE IMÁGENES: CONTROL DE DESBORDE (PROXMOX/LABS)
+   ========================================================== */
+
+/* Asegura que ninguna imagen sea más ancha que la tarjeta blanca */
+img {
+    max-width: 100% !important; /* Capacidad máxima: 100% del ancho del padre */
+    height: auto !important;     /* Mantiene la proporción original */
+    display: block;             /* Evita espacios fantasmas debajo */
+    margin: 1.5rem auto;        /* Centra la imagen y da aire arriba/abajo */
+    border-radius: 8px;         /* Bordes suaves para que parezca profesional */
+    box-shadow: 0 4px 15px rgba(0,0,0,0.15); /* Sombra sutil para resaltar */
+}
