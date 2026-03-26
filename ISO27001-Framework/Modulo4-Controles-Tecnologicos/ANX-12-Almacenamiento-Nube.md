@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Anexo 12: Cloud Storage"
+subtitle: "Gobierno y seguridad en entornos nube"
+---
+
 # Anexo 12: Política de Almacenamiento en la Nube (Cloud Storage)
 
 ## 🎯 Objetivo
