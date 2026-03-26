@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Anexo 03: Gestión de Parches"
+subtitle: "Mantenimiento y actualización de sistemas"
+---
+
 # Anexo 3: Política de Actualización de Software y Gestión de Parches
 
 ## 🎯 Objetivo
