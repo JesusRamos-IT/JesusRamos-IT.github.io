@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Anexo 25: Concienciación"
+subtitle: "Capacitación y cultura de ciberseguridad"
+---
+
 # Anexo 25: Formación y Concienciación en Ciberseguridad
 
 ## 🎯 Objetivo
