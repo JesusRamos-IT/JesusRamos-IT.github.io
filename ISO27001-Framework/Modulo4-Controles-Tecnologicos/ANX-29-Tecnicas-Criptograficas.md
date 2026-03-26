@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Anexo 29: Cifrado y Claves"
+subtitle: "Protección criptográfica de la información"
+---
+
 # Anexo 29: Política de Uso de Técnicas Criptográficas
 
 ## 🎯 Objetivo
