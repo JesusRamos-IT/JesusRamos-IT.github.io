@@ -1,3 +1,9 @@
+---
+layout: default
+title: "💾 Centralización de Datos"
+subtitle: "Redirección de carpetas, GPOs y protección con FSRM"
+---
+
 # Implementación de Centralización de Datos de Usuario y Protección de Archivos
 
 ## 🎯 Justificación Técnica
@@ -45,7 +51,9 @@ Se activa **Volume Shadow Copies (VSS)** en los volúmenes de datos para permiti
 
 ---
 
-## ⬅️ Navegación
-[Volver al Índice SysAdmin-Playbooks](https://jesusramos-tec.github.io/SysAdmin-Playbooks/readme.md/)
-
 ---
+
+## ⬅️ Navegación
+* [Volver a Windows Admin](../index.md)
+* [Volver al Índice de Playbooks](../../index.md)
+* [Ir a Inicio Principal](../../../index.md)
