@@ -1,3 +1,9 @@
+---
+layout: default
+title: "🔑 Reparación Office"
+subtitle: "Solución a errores de activación y licencias"
+---
+
 # 🏢 Reparación de Licencia: Microsoft Office On-Premise
 
 Este manual aborda el error "Microsoft Office no puede comprobar la licencia de este producto", originado habitualmente tras actualizaciones mayores de Windows (especialmente desde la versión 1909) que corrompen la plataforma de protección de software.
@@ -51,6 +57,6 @@ Para versiones modernas (Windows 11 24H2+):
 ---
 
 ## ⬅️ Navegación
-[Volver al Índice SysAdmin-Playbooks](https://jesusramos-tec.github.io/SysAdmin-Playbooks/)
-
----
+* [Volver a Troubleshooting](./index.md)
+* [Volver a Windows Admin](../index.md)
+* [Volver al Índice de Playbooks](../../index.md)
