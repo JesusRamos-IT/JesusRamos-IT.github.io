@@ -1,3 +1,9 @@
+---
+layout: default
+title: "🛡️ Activación Windows"
+subtitle: "Resolución de errores KMS y licencias digitales"
+---
+
 # 🔑 Reparación de Activación: Error de Archivo Manifest.xml
 
 Este laboratorio documenta la resolución del error donde Windows pierde la activación (mostrando el mensaje "Activar Windows") tras una actualización, debido a la corrupción o borrado del archivo `Manifest.xml`.
@@ -43,6 +49,6 @@ El uso del comando **wmic** para obtener la **OA3xOriginalProductKey** es fundam
 ---
 
 ## ⬅️ Navegación
-[Volver al Índice SysAdmin-Playbooks](https://jesusramos-tec.github.io/SysAdmin-Playbooks/)
-
----
+* [Volver a Troubleshooting](./index.md)
+* [Volver a Windows Admin](../index.md)
+* [Volver al Índice de Playbooks](../../index.md)
