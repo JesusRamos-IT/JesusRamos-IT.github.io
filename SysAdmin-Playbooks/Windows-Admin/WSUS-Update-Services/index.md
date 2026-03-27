@@ -1,3 +1,9 @@
+---
+layout: default
+title: "🔄 WSUS"
+subtitle: "Gestión Centralizada de Actualizaciones"
+---
+
 # 🔄 Gestión Centralizada de Actualizaciones: WSUS
 
 Este laboratorio documenta el despliegue y la configuración de **Windows Server Update Services (WSUS)** en un entorno de dominio para la gestión controlada de parches de seguridad y actualizaciones de sistema.
@@ -77,6 +83,5 @@ Implementar WSUS requiere una estrategia de mantenimiento para evitar la saturac
 ---
 
 ## ⬅️ Navegación
-[Volver al Índice SysAdmin-Playbooks](https://jesusramos-tec.github.io/SysAdmin-Playbooks/)
-
----
+* [Volver a Windows Admin](../index.md)
+* [Volver al Índice de Playbooks](../../index.md)
