@@ -1,3 +1,9 @@
+---
+layout: default
+title: "🔄 Fix Windows Update"
+subtitle: "Reset de componentes y catálogo de actualizaciones"
+---
+
 # 🛠️ Guía de Supervivencia: El Error "Fantasma" de Windows Update
 
 Este documento es una crónica técnica de resolución de problemas ante un error crítico de Windows Update que impedía la actualización del sistema. Se detallan 7 niveles de intervención, desde lo más superficial hasta el despliegue de soluciones de bajo nivel.
@@ -119,6 +125,6 @@ A pesar de agotar la vía del software, este caso de estudio dejó dos conclusio
 ---
 
 ## ⬅️ Navegación
-[Volver al Índice SysAdmin-Playbooks](https://jesusramos-tec.github.io/SysAdmin-Playbooks/)
-
----
+* [Volver a Troubleshooting](./index.md)
+* [Volver a Windows Admin](../index.md)
+* [Volver al Índice de Playbooks](../../index.md)
