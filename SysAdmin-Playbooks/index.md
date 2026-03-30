@@ -15,9 +15,9 @@ Foco principal en la certificación **RHCSA** y administración de sistemas RHEL
 
 | Sección | Descripción | Acceso |
 | :--- | :--- | :---: |
-| **🧪 Laboratorios RHCSA** | Instalación, LVM, permisos, servicios y seguridad. | [Explorar](./Linux-Admin/Laboratorios-RHCSA/RHCSA-Lab-01-Instalacion.md) |
-| **🤖 Automatización** | Infraestructura como código con Ansible. | [Explorar](./Automatizacion/index.md) |
-| **📈 Monitorización** | Implementación de SIEM y gestión de logs. | [Explorar](./Monitorizacion/index.md) |
+| **🧪 Laboratorios RHCSA** | Instalación, LVM, permisos, servicios y seguridad. | [ Explorar ](./Linux-Admin/Laboratorios-RHCSA/RHCSA-Lab-01-Instalacion.md) |
+| **🤖 Automatización** | Infraestructura como código con Ansible. | [ Explorar ](./Automatizacion/) |
+| **📈 Monitorización** | Implementación de SIEM y gestión de logs. | [ Explorar ](./Monitorizacion/) |
 
 
 ### 🪟 [Windows Infrastructure](./Windows-Admin/)
@@ -25,10 +25,10 @@ Administración de entornos Windows Server y servicios de Directorio Activo.
 
 | Sección | Descripción | Acceso |
 | :--- | :--- | :---: |
-| **📑 GPOs** | Endurecimiento de sistemas y políticas de grupo. | [Explorar](./Windows-Admin/GPOs/) |
-| **💾 File Services** | Cuotas FSRM y gestión de recursos compartidos. | [Explorar](./Windows-Admin/Files-Services/) |
-| **🔄 Windows Update Services(WSUS)** | Centralización de actualizaciones. | [Explorar](./Windows-Admin/WSUS-Update-Services/wsus.md) |
-| **🩺 Troubleshootings** | Errores de Microsoft Windows. | [Explorar](./Windows-Admin/Troubleshooting/) |
+| **📑 GPOs** | Endurecimiento de sistemas y políticas de grupo. | [ Explorar ](./Windows-Admin/GPOs/) |
+| **💾 File Services** | Cuotas FSRM y gestión de recursos compartidos. | [ Explorar ](./Windows-Admin/Files-Services/) |
+| **🔄 Windows Update Services(WSUS)** | Centralización de actualizaciones. | [ Explorar ](./Windows-Admin/WSUS-Update-Services/wsus.md) |
+| **🩺 Troubleshootings** | Errores de Microsoft Windows. | [ Explorar ](./Windows-Admin/Troubleshooting/) |
 
 ### 🌐 [Infraestructura de Red](./Infraestructura-Red/Replanteo-Red-Core.md)
 * Diseños de segmentación, topologías y configuraciones de seguridad perimetral.
