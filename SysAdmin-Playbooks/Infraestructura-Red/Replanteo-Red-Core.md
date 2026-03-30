@@ -52,4 +52,4 @@ La infraestructura se distribuye en una arquitectura de **Estrella Extendida** m
 
 ---
 ## ⬅️ Navegación
-* [Volver al Inicio de Playbooks](../../index.md)
+* [Volver al Inicio de Playbooks](../index.md)
