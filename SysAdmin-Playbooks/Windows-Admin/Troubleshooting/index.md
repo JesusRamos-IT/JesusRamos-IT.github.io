@@ -20,4 +20,3 @@ Este repositorio centraliza las soluciones probadas en laboratorio para errores 
 
 ## ⬅️ Navegación
 * [Volver a Playbooks](../index.md)
-* [Volver al Índice Principal](../../index.md)
