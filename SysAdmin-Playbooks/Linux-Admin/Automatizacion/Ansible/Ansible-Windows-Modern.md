@@ -33,6 +33,7 @@ win-dc-01 ansible_host=192.168.200.200 ansible_user=ansible@dominio.local ansibl
 La automatización de parches en entornos de Controlador de Dominio se realiza mediante el módulo ansible.windows.win_updates.
 
 | Parámetro | Valor Recomendado | Motivo |
+| :--- | :--- | :--- |
 | category_names |"SecurityUpdates, CriticalUpdates" | Estabilidad del sistema |
 | reboot | yes | Garantiza la aplicación del parche |
 |reboot_timeout | 3600 | Margen para cierre de servicios de AD |
@@ -43,12 +44,15 @@ Ejecución de validación de conectividad desde el nodo de control:
 
 ansible windows_servers -m win_ping
 
+---
+
 🧪 Recursos Adicionales
 
-    🚀 Ver Laboratorio Paso a Paso (Modo Lab)
+   🚀 [Ver laboratorio paso a paso](./Labs/Manual-Ansible-Windows-Detallado.md)
 
-⬅️ Navegación
+---
+⬅️ Navegación:
+   * [Volver a Automatización](../index.md)
+   * [Volver al Inicio](../../index.md)
 
-    Volver a Automatización
 
-    Volver al Inicio
