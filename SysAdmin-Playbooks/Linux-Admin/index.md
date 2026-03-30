@@ -16,4 +16,4 @@ Foco principal en la certificación **RHCSA** y administración de sistemas RHEL
 | **📈 Monitorización** | Implementación de SIEM y gestión de logs. | [Explorar](./Monitorizacion/) |
 
 ## ⬅️ Navegación
-* [Volver al Inicio de Playbooks](../../index.md)
+* [Volver al Inicio de Playbooks](../index.md)
