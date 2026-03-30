@@ -207,3 +207,17 @@ img {
     color: #ffffff;
     text-shadow: 2px 2px 10px rgba(0,0,0,0.8);
 }
+
+.wip-header {
+    height: 350px;
+    /* Efecto de escala de grises sobre el Datacenter */
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), 
+                      url('https://jesusramos-it.github.io/assets/images/header_bg.png') !important;
+    filter: grayscale(100%); /* <--- La magia está aquí */
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
