@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} | Juan Jesús Ramos Sosa</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+
+    <header class="wip-header" style="background-image: url('{{ page.header_image | default: "/assets/images/header_bg.png" | relative_url }}');">
+        <div class="header-overlay">
+            <div class="header-content">
+                <h1>{{ page.title }}</h1>
+                <p class="tagline">{{ page.subtitle }}</p>
+                <a href="{{ '/' | relative_url }}" class="btn-github">⬅ Volver al Índice</a>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <article class="card markdown-body">
+            {{ content }}
+        </article>
+    </main>
+
+</body>
+</html>
