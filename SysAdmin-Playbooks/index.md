@@ -27,7 +27,7 @@ Administración de entornos Windows Server y servicios de Directorio Activo.
 | :--- | :--- | :---: |
 | **📑 GPOs** | Endurecimiento de sistemas y políticas de grupo. | [ Explorar ](./Windows-Admin/GPOs/) |
 | **💾 File Services** | Cuotas FSRM y gestión de recursos compartidos. | [ Explorar ](./Windows-Admin/Files-Services/Centralizacion-Datos-Usuarios.md) |
-| **🔄 Windows Update Services(WSUS)** | Centralización de actualizaciones. | [ Explorar ](./Windows-Admin/WSUS-Update-Services/wsus.md) |
+| **🔄 Windows Update Services(WSUS)** | Centralización de actualizaciones. | [ Explorar ](./Windows-Admin/WSUS-Update-Services/index.md) |
 | **🩺 Troubleshootings** | Errores de Microsoft Windows. | [ Explorar ](./Windows-Admin/Troubleshooting/) |
 
 ### 🌐 [Infraestructura de Red](./Infraestructura-Red/Replanteo-Red-Core.md)
