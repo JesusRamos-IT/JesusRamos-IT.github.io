@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "RHCSA: Laboratorio 01"
+title: "🐧RHCSA: Laboratorio 01"
 subtitle: "Instalación de RHEL 9 sobre Proxmox VE 9"
 ---
 
