@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "ISO27001 Framework"
+title: "📑 ISO27001 Framework"
 ---
 
 # 📑 Framework de Controles ISO 27001:2022
