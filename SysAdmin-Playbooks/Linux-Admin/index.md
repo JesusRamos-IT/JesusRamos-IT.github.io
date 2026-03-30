@@ -12,8 +12,8 @@ Foco principal en la certificación **RHCSA** y administración de sistemas RHEL
 | Sección | Descripción | Acceso |
 | :--- | :--- | :---: |
 | **🧪 Laboratorios RHCSA** | Instalación, LVM, permisos, servicios y seguridad. | [Explorar](./Laboratorios-RHCSA/RHCSA-Lab-01-Instalacion.md) |
-| **🤖 Automatización** | Infraestructura como código con Ansible. | [Explorar](./Automatizacion/) |
-| **📈 Monitorización** | Implementación de SIEM y gestión de logs. | [Explorar](./Monitorizacion/) |
+| **🤖 Automatización** | Infraestructura como código con Ansible. | [Explorar](./Automatizacion/index.md) |
+| **📈 Monitorización** | Implementación de SIEM y gestión de logs. | [Explorar](./Monitorizacion/index.md) |
 
 ## ⬅️ Navegación
 * [Volver al Inicio de Playbooks](../index.md)
