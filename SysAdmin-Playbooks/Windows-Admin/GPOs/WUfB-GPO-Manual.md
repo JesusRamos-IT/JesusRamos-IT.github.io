@@ -34,3 +34,12 @@ El estado de la aplicación de estas políticas puede verificarse localmente med
 ```powershell
 # Verificación de políticas aplicadas en el registro
 Get-ItemProperty -Path "HKLM:\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU"
+```
+---
+🧪 Recursos Adicionales
+🚀 Ver Laboratorio Paso a Paso (Modo Lab)
+---
+⬅️ Navegación
+Volver a Windows Admin
+
+Volver al Índice de Playbooks
