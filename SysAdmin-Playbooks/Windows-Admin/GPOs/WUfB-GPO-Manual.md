@@ -40,7 +40,7 @@ Get-ItemProperty -Path "HKLM:\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\
 
 🧪 Recursos Adicionales
 
-  🚀 [Ver Laboratorio Paso a Paso (Modo Lab)](./Labs/Manual-GPO-Updates-Detallado.md)
+   * 🚀 [Ver Laboratorio Paso a Paso (Modo Lab)](./Labs/Manual-GPO-Updates-Detallado.md)
 
 ---
 
