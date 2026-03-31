@@ -46,4 +46,5 @@ Get-ItemProperty -Path "HKLM:\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\
 ⬅️ Navegación
 
 [Volver a Windows Admin](../index.md)
+
 [Volver al Índice de Playbooks](../../index.md)
