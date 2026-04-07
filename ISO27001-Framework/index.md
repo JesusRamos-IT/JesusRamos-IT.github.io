@@ -5,20 +5,32 @@ title: "📑 ISO27001 Framework"
 
 # 📑 Framework de Controles ISO 27001:2022
 
-Este directorio centraliza la documentación detallada de los 29 anexos de seguridad implementados, organizados en cuatro módulos operativos para facilitar su gestión y consulta técnica.
+Este directorio centraliza la documentación detallada de los anexos de seguridad implementados, organizados en cuatro módulos operativos y categorizados mediante **Atributos ISO 27002:2022** para una gestión técnica avanzada.
 
 ---
 
 ## 🛠️ Metodología de Clasificación
-Para cada control se han definido niveles de complejidad y alcances de aplicación:
 
-### 🎯 Alcance del Control
+Para cada control se aplican dos capas de clasificación: el alcance operativo (quién lo ejecuta) y los atributos taxonómicos (qué hace el control).
+
+### 🎯 1. Alcance Operativo (Personalizado)
 
 | Siglas | Alcance | Descripción |
 | :--- | :--- | :--- |
 | **PRO** | **Procesos** | Orientado a la dirección, gestión y cumplimiento legal. |
 | **TEC** | **Tecnologías** | Orientado específicamente al personal técnico y SysAdmins. |
 | **PER** | **Personas** | Controles transversales que afectan a todo el personal. |
+
+### 🏷️ 2. Atributos ISO/IEC 27002:2022 (Glosario)
+
+Utilizamos etiquetas (#) para permitir búsquedas dinámicas y mapeo con otros marcos (como NIST).
+
+| Categoría | Atributos | Descripción |
+| :--- | :--- | :--- |
+| **Tipo de Control** | `#Preventivo`, `#Detectivo`, `#Correctivo` | Cuándo actúa el control respecto al incidente. |
+| **Propiedades** | `#Confidencialidad`, `#Integridad`, `#Disponibilidad` | Qué pilar de la seguridad protege principalmente. |
+| **Conceptos Ciber** | `#Identificar`, `#Proteger`, `#Detectar`, `#Responder`, `#Recuperar` | Alineación con el marco NIST CSF. |
+| **Capacidades** | `#Gobierno`, `#Gestión_Activos`, `#Seguridad_Red`, `#Cloud` | Dominio técnico o funcional donde opera. |
 
 ---
 
