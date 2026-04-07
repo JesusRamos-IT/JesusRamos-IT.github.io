@@ -23,14 +23,15 @@ Para cada control se aplican dos capas de clasificación: el alcance operativo (
 
 ### 🏷️ 2. Atributos ISO/IEC 27002:2022 (Glosario)
 
-Utilizamos etiquetas (#) para permitir búsquedas dinámicas y mapeo con otros marcos (como NIST).
+Utilizamos etiquetas para permitir búsquedas dinámicas y mapeo con otros marcos de control.
 
-| Categoría | Atributos | Descripción |
+| Categoría | Atributos (Hashtags) | Descripción y Propósito |
 | :--- | :--- | :--- |
-| **Tipo de Control** | `#Preventivo`, `#Detectivo`, `#Correctivo` | Cuándo actúa el control respecto al incidente. |
-| **Propiedades** | `#Confidencialidad`, `#Integridad`, `#Disponibilidad` | Qué pilar de la seguridad protege principalmente. |
-| **Conceptos Ciber** | `#Identificar`, `#Proteger`, `#Detectar`, `#Responder`, `#Recuperar` | Alineación con el marco NIST CSF. |
-| **Capacidades** | `#Gobierno`, `#Gestión_Activos`, `#Seguridad_Red`, `#Cloud` | Dominio técnico o funcional donde opera. |
+| **Tipo de Control** | `#Preventivo`<br>`#Detectivo`<br>`#Correctivo` | Momento en el que el control actúa sobre el riesgo o incidente. |
+| **Propiedades** | `#Confidencialidad`<br>`#Integridad`<br>`#Disponibilidad` | Dimensión de la tríada de seguridad que el control garantiza. |
+| **Conceptos Ciber** | `#Identificar`<br>`#Proteger`<br>`#Detectar`<br>`#Responder`<br>`#Recuperar` | Alineación directa con las funciones del marco NIST CSF. |
+| **Capacidades** | `#Gobierno`<br>`#Gestión_Activos`<br>`#Seguridad_Red`<br>`#Cloud` | Dominio técnico o funcional donde se aplica la medida. |
+| **Dominios** | `#Gobernanza`<br>`#Protección`<br>`#Defensa`<br>`#Resiliencia` | Clasificación estratégica de la ciberseguridad corporativa. |
 
 ---
 
