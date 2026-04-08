@@ -238,3 +238,45 @@ img {
     font-style: normal;
     text-transform: uppercase;
 }
+
+/* ==========================================================
+   ESTILO DE TABLAS (IDENTIDAD GITHUB LIGHT)
+   ========================================================== */
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 1.5rem 0;
+    font-size: 0.95rem;
+    background-color: var(--card-bg);
+    border-radius: 8px;
+    overflow: hidden; /* Para que los bordes redondeados se vean */
+}
+
+table th, table td {
+    border: 1px solid #d0d7de; /* El gris suave de GitHub */
+    padding: 12px 15px;
+    text-align: left;
+}
+
+table th {
+    background-color: #f6f8fa; /* Fondo grisáceo para la cabecera */
+    font-weight: 600;
+    color: var(--text-main);
+}
+
+/* Filas alternas para mejorar la lectura */
+table tr:nth-child(even) {
+    background-color: #fbfcfd;
+}
+
+/* Estilo para las etiquetas/tags dentro de las tablas (#Preventivo, etc.) */
+table code {
+    background-color: rgba(175, 184, 193, 0.2);
+    padding: 0.2em 0.4em;
+    border-radius: 6px;
+    font-family: inherit;
+    font-size: 85%;
+    color: #444d56;
+    border: none;
+}
