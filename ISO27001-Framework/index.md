@@ -25,10 +25,10 @@ Para cada control se aplican dos capas de clasificación: el alcance operativo (
 
 | Categoría | Atributos Taxonómicos | Propósito del Control |
 | :--- | :--- | :--- |
-| **Tipo de Control** | `#Preventivo`<br>`#Detectivo`<br>`#Correctivo` | Define si el control actúa antes, durante o después del riesgo. |
-| **Propiedades** | `#Confidencialidad`<br>`#Integridad`<br>`#Disponibilidad` | Indica qué pilar de la tríada de seguridad se está protegiendo. |
-| **Conceptos Ciber** | `#Identificar`<br>`#Proteger`<br>`#Detectar`<br>`#Responder`<br>`#Recuperar` | Clasificación funcional basada en el marco NIST CSF. |
-| **Capacidades** | `#Gobierno`<br>`#Gestión_Activos`<br>`#Seguridad_Red`<br>`#Cloud` | Área técnica o de gestión donde se aplica la medida. |
+| **Tipo de Control** | `#Preventivo`<br> `#Detectivo`<br> `#Correctivo` | Define si el control actúa antes, durante o después del riesgo. |
+| **Propiedades** | `#Confidencialidad`<br> `#Integridad`<br> `#Disponibilidad` | Indica qué pilar de la tríada de seguridad se está protegiendo. |
+| **Conceptos Ciber** | `#Identificar`<br> `#Proteger`<br> `#Detectar`<br> `#Responder`<br> `#Recuperar` | Clasificación funcional basada en el marco NIST CSF. |
+| **Capacidades** | `#Gobierno`<br> `#Gestión_Activos`<br> `#Seguridad_Red`<br> `#Cloud` | Área técnica o de gestión donde se aplica la medida. |
 
 ---
 
