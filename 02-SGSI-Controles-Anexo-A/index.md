@@ -35,7 +35,6 @@ Este directorio centraliza la documentación técnica y operativa de los control
 
 ---
 
----
 ## 🔧 Módulo 4: Controles Tecnológicos
 * [**8.2** - Gestión de Derechos de Acceso](./Modulo4-Controles-Tecnologicos/8.2-Acceso-Control-Informacion.md)
 * [**8.5** - Autenticación Segura (Contraseñas)](./Modulo4-Controles-Tecnologicos/8.5-Contraseñas.md)
