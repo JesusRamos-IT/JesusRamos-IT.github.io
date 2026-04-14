@@ -1,7 +1,6 @@
 # 🛡️ SGSI & Infraestructura Crítica: Lead Auditor Framework
 
-Bienvenido a mi ecosistema de seguridad de la información.
-Este repositorio actúa como mi **Sistema de Gestión de Seguridad de la Información (SGSI)** personal, donde documento el despliegue de controles, la gobernanza normativa y las evidencias técnicas bajo el estándar **ISO 27001:2022**.
+Bienvenido a mi ecosistema de seguridad de la información. Este repositorio actúa como mi **Sistema de Gestión de Seguridad de la Información (SGSI)** personal, donde documento el despliegue de controles, la gobernanza normativa y las evidencias técnicas bajo el estándar **ISO 27001:2022**.
 
 ---
 
@@ -51,6 +50,3 @@ Pruebas de concepto y playbooks de seguridad aplicados.
 
 > [!TIP]
 > "Si algo no ha explotado todavía, es que no hemos buscado, preguntado y mirado suficientes cosas."
-
-> [!TIP]
-> "Si algo no ha explotado todavía, es que no hemos probado suficientes configuraciones."
