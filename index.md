@@ -34,11 +34,11 @@ Aquí documento mis proyectos, laboratorios de infraestructura (con lo que encon
 *Navegación completa por el árbol de contenidos.*
 
 | Módulo | Descripción Técnica | Acceso |
-| :--- | :--- | :---: |
-| **🛡️ GRC & Ciberseguridad** | Framework ISO 27001:2022 (Módulos 1-4). | [Explorar](./ISO27001-Framework/) |
-| **🐧 Linux Administration** | Labs RHEL 9.7, RHCSA y automatización. | [Explorar](./SysAdmin-Playbooks/Linux-Admin/) |
-| **🪟 Windows Infrastructure** | Gestión de AD, GPOs y servicios de archivos. | [Explorar](./SysAdmin-Playbooks/Windows-Admin/) |
-| **📊 Gestión de Procesos** | Políticas, SPOs y plantillas operativas. | [Explorar](./Gestion-Procesos/) |
+| :--- | :--- | :--- |
+| **🛡️ GRC & Ciberseguridad** | Framework ISO 27001:2022 (Controles Anexo A). | [Explorar](./02-SGSI-Controles-Anexo-A/) |
+| **🐧 Linux Administration** | Evidencias Técnicas RHEL y Hardening. | [Explorar](./03-SGSI-Evidencias-Tecnicas/Linux-Admin/) |
+| **💻 Windows Infrastructure** | Seguridad en AD, GPOs y Endpoints. | [Explorar](./03-SGSI-Evidencias-Tecnicas/Windows-Admin/) |
+| **📋 Gobernanza y SGSI** | Políticas, Procedimientos y Contexto del SGSI. | [Explorar](./01-SGSI-Gobernanza/) |
 
 ---
 
