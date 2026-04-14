@@ -1,51 +1,46 @@
-# 🐧 Base de Conocimientos Técnicos: Lab & Ops
+# 🛡️ SGSI & Infraestructura Crítica: Lead Auditor Framework
 
-Bienvenido a mi base de conocimientos personal. <br>
-Aquí documento mis proyectos, laboratorios de infraestructura (con lo que encontrarás cosas a medias y que han explotado, jeje), ciberseguridad (ISO27001) y mi camino hacia la certificación **RHCSA**.
-
----
-
-## 🚀 Proyectos Destacados
-*Selección de implementaciones críticas y casos de estudio.*
-
-### 🛡️ Ciberseguridad & Compliance
-
-| Proyecto | Descripción | Acceso |
-| :--- | :--- | :---: |
-| **ISO 27001:2022 Framework** | Despliegue de los 29 anexos de seguridad (SGSI) organizados por módulos operativos. | [Consultar](./ISO27001-Framework/) | 
-| **Monitorización con Wazuh** | Despliegue de SIEM en entornos críticos y gestión de alertas. | [](./manual-wazuh.md) |
-
-### 🏗️ Infraestructura & Networking
-
-| Proyecto | Descripción | Acceso |
-| :--- | :--- | :---: |
-| **Replanteo de Red IT** | Diseño de segmentación mediante VLSM y VLANs. | [Acceder](./SysAdmin-Playbooks/Infraestructura-Red/Replanteo-Red-Core.md) | 
-| **Automatización de Guardado** | Configuración técnica de GPOs, redirección de carpetas y cuotas FSRM. | [](./SysAdmin-Playbooks/Windows-Admin/Files-Services/Guardado-Archivos-Servidor.md) |
-
-### 🐧 Laboratorio Linux (Road to RHCSA)
-
-| Proyecto | Descripción | Acceso |
-| :--- | :--- | :---: |
-| **Administración RHEL** | Notas de estudio y laboratorios prácticos para la certificación. | [Explorar](./SysAdmin-Playbooks/Linux-Admin/Laboratorios-RHCSA/RHCSA-Lab-01-Instalacion.md) |
+Bienvenido a mi ecosistema de seguridad de la información.
+Este repositorio actúa como mi **Sistema de Gestión de Seguridad de la Información (SGSI)** personal, donde documento el despliegue de controles, la gobernanza normativa y las evidencias técnicas bajo el estándar **ISO 27001:2022**.
 
 ---
 
-## 🗺️ Mapa del Repositorio
-*Navegación completa por el árbol de contenidos.*
+## 🎯 Enfoque Estratégico
+*Documentación integral del ciclo de vida de la seguridad.*
 
-| Módulo | Descripción Técnica | Acceso |
+### 📋 Gobernanza y Estrategia
+Documentación de alto nivel que sostiene el sistema.
+* **Contexto y Alcance:** Definición del perímetro de seguridad.
+* **Políticas Globales:** Directrices de seguridad organizacional.
+* [Explorar Gobernanza](./01-SGSI-Gobernanza/)
+
+### 🛠️ Implementación de Controles (Anexo A)
+Despliegue detallado de los 93 controles de la norma ISO 27001:2022.
+* **Módulos 1-4:** Organización, Personas, Físico y Tecnológico.
+* [Consultar Framework](./02-SGSI-Controles-Anexo-A/)
+
+### 🐧 Evidencias Técnicas y Bastionado
+Pruebas de concepto y playbooks de seguridad aplicados.
+* **Hardening:** Aseguramiento de entornos Linux (RHEL) y Windows Server.
+* **Networking:** Segmentación de redes críticas y seguridad perimetral.
+* [Ver Evidencias Técnicas](./03-SGSI-Evidencias-Tecnicas/)
+
+---
+
+## 🚀 Proyectos y Casos de Estudio
+
+| Control ISO | Proyecto / Evidencia | Descripción |
 | :--- | :--- | :--- |
-| **🛡️ GRC & Ciberseguridad** | Framework ISO 27001:2022 (Controles Anexo A). | [Explorar](./02-SGSI-Controles-Anexo-A/) |
-| **🐧 Linux Administration** | Evidencias Técnicas RHEL y Hardening. | [Explorar](./03-SGSI-Evidencias-Tecnicas/Linux-Admin/) |
-| **💻 Windows Infrastructure** | Seguridad en AD, GPOs y Endpoints. | [Explorar](./03-SGSI-Evidencias-Tecnicas/Windows-Admin/) |
-| **📋 Gobernanza y SGSI** | Políticas, Procedimientos y Contexto del SGSI. | [Explorar](./01-SGSI-Gobernanza/) |
+| **8.15** | **Monitorización con Wazuh** | Despliegue de SIEM para la detección y respuesta ante incidentes. |
+| **8.20** | **Seguridad en Redes** | Segmentación mediante VLSM y VLANs en entornos industriales. |
+| **8.9** | **Gestión de Identidades** | Configuración de GPOs y control de acceso en Directorio Activo. |
 
 ---
 
-## 🛠️ Stack Tecnológico
-- **OS:** RHEL (foco principal), Ubuntu Server, Windows Server 2016 y 2022.
-- **Networking:** Sophos XGS3100, VPN (Sophos Connect), VLAN/VLSM.
-- **Compliance:** ISO 27001, Gestión de Riesgos, Auditoría Técnicas.
+## 🛠️ Stack de Auditoría
+- **Normativa:** ISO 27001:2022 (Lead Auditor Path), RGPD/LOPD-GDD.
+- **Sistemas:** RHEL (Hardening), Windows Server (Compliance), Virtualización.
+- **Seguridad:** Sophos XGS, VPN, Wazuh, Auditoría de Controles Físicos.
 
 ---
 
@@ -53,6 +48,9 @@ Aquí documento mis proyectos, laboratorios de infraestructura (con lo que encon
 [LinkedIn](https://linkedin.com/in/juan-jesusramos-sosa) | [jjramossosa@gmail.com](mailto:jjramossosa@gmail.com)
 
 ---
+
+> [!TIP]
+> "Si algo no ha explotado todavía, es que no hemos buscado, preguntado y mirado suficientes cosas."
 
 > [!TIP]
 > "Si algo no ha explotado todavía, es que no hemos probado suficientes configuraciones."
