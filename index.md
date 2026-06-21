@@ -41,23 +41,6 @@ Bienvenido a mi ecosistema de seguridad. Este repositorio es mi **Sistema de Ges
 
 ---
 
-## 🚀 Proyectos y Casos de Estudio
-
-| Control ISO | Proyecto / Evidencia | Descripción |
-| :--- | :--- | :--- |
-| **8.15** | **Monitorización con Wazuh** | Despliegue de SIEM para la detección y respuesta. |
-| **8.20** | **Seguridad en Redes** | Segmentación industrial (VLANs/VLSM). |
-| **8.9** | **Gestión de Identidades** | GPOs y control de acceso en Directorio Activo. |
-
----
-
-## 🛠️ Stack de Auditoría
-- **Normativa:** ISO 27001:2022 (Lead Auditor Path), RGPD/LOPD-GDD.
-- **Sistemas:** RHEL (Hardening), Windows Server (Compliance).
-- **Seguridad:** Sophos XGS, VPN, Wazuh, Auditoría de Controles Físicos.
-
----
-
 ## 📬 Contacto
 [LinkedIn](https://linkedin.com/in/juan-jesusramos-sosa) | [jjramossosa@gmail.com](mailto:jjramossosa@gmail.com)
 
