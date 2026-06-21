@@ -42,7 +42,7 @@ Bienvenido a mi ecosistema de seguridad. Este repositorio es mi **Sistema de Ges
 ---
 
 ## 📬 Contacto
-[LinkedIn](https://linkedin.com/in/juan-jesusramos-sosa) | [jjramossosa@gmail.com](mailto:jjramossosa@gmail.com)
+[LinkedIn](https://linkedin.com/in/juan-jesusramos-sosa)
 
 ---
 
