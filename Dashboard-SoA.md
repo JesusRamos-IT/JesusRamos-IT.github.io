@@ -43,5 +43,7 @@ De cara a una auditoría del SGSI, la defensa de una exclusión debe ser riguros
 ---
 
 ## 🛠️ Herramientas de Campo de Auditoría
-* [➕ Registrar hallazgo / No Conformidad (NC)](./03-Plantillas-y-Toolkits/Template-Registro-NC.md)
-* [📝 Redactar Informe Final de Auditoría](./03-Plantillas-y-Toolkits/Template-Informe-Auditoria.md)
+*Acceso centralizado a los recursos operativos y la documentación maestra para la ejecución de auditorías.*
+
+* **[📁 Acceder al Centro de Plantillas y Toolkits](./03-Plantillas-y-Toolkits/index.md)** 
+  Estadísticas de control, cuadernos de campo, registro formal de No Conformidades (NC) e informes finales de auditoría.
