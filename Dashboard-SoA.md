@@ -25,7 +25,7 @@ Esta matriz organiza los 93 controles del Anexo A de la versión 2022 en sus 4 g
 
 | Bloque Normativo | Nº Controles | Foco de la Auditoría (¿Qué evidencias buscar?) | Estado del Toolkit | Enlace a la Guía |
 | :--- | :---: | :--- | :---: | :--- |
-| **A.5 Controles Organizativos** | 37 | Políticas de seguridad, gestión de activos, control de accesos corporativo, relaciones con proveedores, gestión de incidentes y continuidad de negocio. | 🟢 Operativo | [Módulo 5](./02-Criterios-Anexo-A/5-Controles-Organizativos/) |
+| **A.5 Controles Organizativos** | 37 | Políticas de seguridad, gestión de activos, control de accesos corporativo, relaciones con proveedores, gestión de incidentes y continuidad de negocio. | 🟢 Operativo | [Módulo 5](./02-Criterios-Anexo-A/5-Controles-Organizativos/index.md) |
 | **A.6 Controles de Personas** | 8 | Ciclo de vida del personal (antes, durante y tras el cese), acuerdos de confidencialidad, directrices de teletrabajo y planes de concienciación. | 🟢 Operativo | [Módulo 6](./02-Criterios-Anexo-A/6-Controles-Personas/) |
 | **A.7 Controles Físicos** | 14 | Perímetros de seguridad, barreras físicas, protección contra amenazas ambientales, seguridad en oficinas, instalaciones y soportes de almacenamiento. | 🟢 Operativo | [Módulo 7](./02-Criterios-Anexo-A/7-Controles-Fisicos/) |
 | **A.8 Controles Tecnológicos** | 34 | Autenticación, gestión de privilegios, cifrado, copias de seguridad, monitorización de sistemas, gestión de vulnerabilidades y desarrollo seguro. | 🟢 Operativo | [Módulo 8](./02-Criterios-Anexo-A/8-Controles-Tecnologicos/) |
