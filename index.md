@@ -1,50 +1,45 @@
 ---
 layout: default
-title: "🛡️ SGSI: Auditoría Líder"
+title: "💼 ISO 27001 Lead Auditor Framework & Toolkit"
 ---
 
-# 🛡️ SGSI & Infraestructura Crítica: Lead Auditor Framework
+# 💼 ISO 27001 Lead Auditor Framework & Toolkit
 
-Bienvenido a mi ecosistema de seguridad. Este repositorio es mi **Sistema de Gestión de Seguridad de la Información (SGSI)** personal; aquí documento la gobernanza, los controles y las evidencias bajo el estándar **ISO 27001:2022**.
+Bienvenid@ a mi entorno de trabajo de auditoría. Este repositorio está estructurado como un **Framework de Evaluación y Toolkit de Recursos Técnicos**, diseñado para la planificación, ejecución y documentación de auditorías de seguridad bajo los estándares **ISO 27001:2022** e **ISO 19011**.
 
-> **Estado del Sistema (Resumen Operativo):**
-> * **Controles Implementados:** 0/93 (Fase de despliegue)
-> * **NCs Abiertas:** 0
-> * **Última revisión:** 2026-06-21
+> **Estado del Toolkit (Control de Recursos):**
+> * **Módulos de Revisión Listos:** 4/4 (Organizativos, Personas, Físicos, Tecnológicos)
+> * **Documentación de Campo:** Plantillas de Informes, Registro de NCs y Listas de Verificación disponibles.
+> * **Última actualización normatividad:** 2026-06-21
 >
-> **[👉 ACCEDER AL DASHBOARD (SoA) - CONTROL DE MANDO](./Dashboard-SoA.md)**
+> **[👉 ACCEDER AL DASHBOARD (SoA) - MATRIZ DE AUDITORÍA](./Dashboard-SoA.md)**
 
 ---
 
 ## 🏛️ Estructura del Framework
 
-### 01. Gobernanza y Estrategia
-*Base normativa y cumplimiento.*
-* [Contexto y Alcance](./01-Gobernanza-y-Estrategia/04-Contexto-y-Alcance/)
-* [Liderazgo y Política](./01-Gobernanza-y-Estrategia/05-Liderazgo/)
-* [Planificación y Riesgos](./01-Gobernanza-y-Estrategia/06-Planificacion/)
-* [Soporte y Operación](./01-Gobernanza-y-Estrategia/07-Soporte/)
-* [Evaluación y Mejora](./01-Gobernanza-y-Estrategia/09-Evaluacion-Desempeno/)
+### 01. Criterios de Gobernanza y Auditoría del Sistema
+*Evaluación del cumplimiento de las cláusulas obligatorias de la norma (Cláusulas 4 a 10).*
+* [Contexto y Alcance (Requisitos de Evidencia)](./01-Gobernanza-y-Estrategia/04-Contexto-y-Alcance/)
+* [Liderazgo, Política y Compromiso Directivo](./01-Gobernanza-y-Estrategia/05-Liderazgo/)
+* [Planificación y Gestión de Riesgos de Seguridad](./01-Gobernanza-y-Estrategia/06-Planificacion/)
+* [Soporte, Competencias y Operación del SGSI](./01-Gobernanza-y-Estrategia/07-Soporte/)
+* [Evaluación del Desempeño y Procesos de Mejora](./01-Gobernanza-y-Estrategia/09-Evaluacion-Desempeno/)
 
-### 02. Criterios Anexo A (Los 93 Controles)
-*Despliegue operativo y técnico.*
-* [Módulo 5: Organizativos](./02-Criterios-Anexo-A/5-Organizativos/)
-* [Módulo 6: Personas](./02-Criterios-Anexo-A/6-Personas/)
-* [Módulo 7: Físicos](./02-Criterios-Anexo-A/7-Fisicos/)
-* [Módulo 8: Tecnológicos](./02-Criterios-Anexo-A/8-Tecnologicos/)
+### 02. Guías de Verificación del Anexo A (Los 93 Controles)
+*Puntos de control, objetivos de auditoría y evidencias técnicas a solicitar.*
+* [Bloque 5: Controles Organizativos](./02-Criterios-Anexo-A/5-Organizativos/)
+* [Bloque 6: Controles de Personas](./02-Criterios-Anexo-A/6-Personas/)
+* [Bloque 7: Controles Físicos](./02-Criterios-Anexo-A/7-Fisicos/)
+* [Bloque 8: Controles Tecnológicos](./02-Criterios-Anexo-A/8-Tecnologicos/)
 
-### 03. Plantillas y Toolkits
-*Documentación maestra de auditoría.*
-* [SOPs de Gestión y Técnicos](./03-Plantillas-y-Toolkits/)
-* [Registro de NCs (Plantilla)](./03-Plantillas-y-Toolkits/Template-Registro-NC.md)
-* [Informe de Auditoría (Plantilla)](./03-Plantillas-y-Toolkits/Template-Informe-Auditoria.md)
+### 03. Plantillas y Cuadernos de Campo
+*Documentación maestra para la ejecución formal de procesos de auditoría.*
+* [Procedimientos Operativos Estándar (SOPs) de Revisión](./03-Plantillas-y-Toolkits/)
+* [Registro, Clasificación y Redacción de NCs (Plantilla)](./03-Plantillas-y-Toolkits/Template-Registro-NC.md)
+* [Informe Final de Auditoría de Seguridad (Plantilla)](./03-Plantillas-y-Toolkits/Template-Informe-Auditoria.md)
 
 ---
 
 ## 📬 Contacto
 [LinkedIn](https://linkedin.com/in/juan-jesusramos-sosa)
-
----
-
-> [!TIP]
-> "Si algo no ha explotado todavía, es que no hemos buscado, preguntado y mirado suficientes cosas."
