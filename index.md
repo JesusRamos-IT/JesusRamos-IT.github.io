@@ -5,12 +5,12 @@ title: "💼 ISO 27001: Lead Auditor Framework & Toolkit"
 
 # 💼 ISO 27001 Lead Auditor Framework & Toolkit
 
-Bienvenid@s. Este repositorio está estructurado como un **Framework de Evaluación y Toolkit de Recursos Técnicos**, diseñado para la planificación, ejecución y documentación de auditorías de seguridad bajo los estándares **ISO 27001:2022** e **ISO 19011**.
+Bienvenid@s a mi entorno personal de auditoría. Este repositorio está estructurado como un **Framework de Evaluación y Toolkit de Recursos Técnicos** de uso propio, diseñado para la planificación, ejecución y documentación de auditorías de seguridad bajo los estándares **ISO 27001:2022** e **ISO 19011**.
 
 > **Estado del Toolkit (Control de Recursos):**
 > * **Módulos de Revisión Listos:** 4/4 (Organizativos, Personas, Físicos, Tecnológicos)
-> * **Documentación de Campo:** Plantillas de Informes, Registro de NCs y Listas de Verificación disponibles.
-> * **Última actualización normatividad:** 2026-06-21
+> * **Documentación de Campo:** Centro de plantillas y registros centralizados.
+> * **Última actualización normativa:** 2026-06-21
 >
 > **[👉 ACCEDER AL DASHBOARD (SoA) - MATRIZ DE AUDITORÍA](./Dashboard-SoA.md)**
 
@@ -28,16 +28,19 @@ Bienvenid@s. Este repositorio está estructurado como un **Framework de Evaluaci
 
 ### 02. Guías de Verificación del Anexo A (Los 93 Controles)
 *Puntos de control, objetivos de auditoría y evidencias técnicas a solicitar.*
-* [Bloque 5: Controles Organizativos](./02-Criterios-Anexo-A/5-Organizativos/)
-* [Bloque 6: Controles de Personas](./02-Criterios-Anexo-A/6-Personas/)
-* [Bloque 7: Controles Físicos](./02-Criterios-Anexo-A/7-Fisicos/)
-* [Bloque 8: Controles Tecnológicos](./02-Criterios-Anexo-A/8-Tecnologicos/)
+* [Bloque 5: Controles Organizativos](./02-Criterios-Anexo-A/5-Controles-Organizativos/)
+* [Bloque 6: Controles de Personas](./02-Criterios-Anexo-A/6-Controles-Personas/)
+* [Bloque 7: Controles Físicos](./02-Criterios-Anexo-A/7-Controles-Fisicos/)
+* [Bloque 8: Controles Tecnológicos](./02-Criterios-Anexo-A/8-Controles-Tecnologicos/)
 
 ### 03. Plantillas y Cuadernos de Campo
-*Documentación maestra para la ejecución formal de procesos de auditoría.*
-* [Procedimientos Operativos Estándar (SOPs) de Revisión](./03-Plantillas-y-Toolkits/)
-* [Registro, Clasificación y Redacción de NCs (Plantilla)](./03-Plantillas-y-Toolkits/Template-Registro-NC.md)
-* [Informe Final de Auditoría de Seguridad (Plantilla)](./03-Plantillas-y-Toolkits/Template-Informe-Auditoria.md)
+*Centro de recursos y documentación maestra para la ejecución formal de procesos de auditoría.*
+* [**📁 Acceder al Centro de Plantillas y Toolkits**](./03-Plantillas-y-Toolkits/)
+
+---
+
+## 📬 Contacto
+[LinkedIn](https://www.linkedin.com/in/juan-jesus-ramos-sosa)
 
 ---
 
