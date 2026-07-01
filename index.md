@@ -41,8 +41,3 @@ Bienvenid@s a mi entorno personal de auditoría. Este repositorio está estructu
 
 ## 📬 Contacto
 [LinkedIn](https://www.linkedin.com/in/juan-jesus-ramos-sosa)
-
----
-
-## 📬 Contacto
-[LinkedIn](https://linkedin.com/in/juan-jesusramos-sosa)
