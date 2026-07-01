@@ -1,48 +1,49 @@
 ---
 layout: default
-title: "Dashboard SoA - Declaración de Aplicabilidad"
+title: "📊 Cuadro de Mando: Evaluación de la Declaración de Aplicabilidad (SoA)"
 ---
 
-# 📊 Dashboard: Declaración de Aplicabilidad (SoA)
+# 📊 Cuadro de Mando: Evaluación de la Declaración de Aplicabilidad (SoA)
 
-> **Versión del documento:** 1.0 | **Última revisión:** YYYY-MM-DD
-> **Estado del SGSI:** [En auditoría / Operativo / En implantación]
-
----
-
-## 📈 Resumen Ejecutivo del SGSI
-* **Controles Seleccionados (Anexo A):** 93
-* **Controles Implementados:** [XX/93]
-* **Controles en Revisión:** [XX/93]
-* **No Aplicables:** [XX]
+En el marco de una auditoría ISO 27001:2022, la **Declaración de Aplicabilidad (SoA)** es el documento central que define el alcance operativo del SGSI. Este cuadro de mando actúa como guía de referencia analítica para evaluar la integridad, consistencia y validez técnica del SoA presentado por la organización auditada.
 
 ---
 
-## 🛡️ Matriz de Controles (Anexo A ISO 27001:2022)
+## 🔍 Criterios de Auditoría para el SoA (Requisitos Cláusula 6.1.3)
 
-*Esta tabla enlaza directamente con los SOPs (procedimientos) y las evidencias técnicas.*
+Al evaluar el SoA de una organización, se deben verificar de forma obligatoria los siguientes puntos de control antes de entrar en la fase técnica:
 
-| ID | Control | Aplicable | Estado | Justificación / Exclusión | Enlace (SOP) |
-| :--- | :--- | :---: | :---: | :--- | :--- |
-| **5.1** | Políticas de seguridad | Sí | ✅ | Control base | [SOP-5.1](./...) |
-| **5.24** | Gestión de incidentes | Sí | ⚠️ | En fase de pruebas | [SOP-5.24](./...) |
-| **8.7** | Protección contra malware | Sí | ✅ | Hardening aplicado | [SOP-8.7](./...) |
-| **...** | ... | ... | ... | ... | ... |
+1. **Integridad:** Comprobar que los **93 controles** del Anexo A han sido considerados y explícitamente enumerados (ninguno puede quedar en el olvido).
+2. **Justificación de Inclusión:** Verificar que se detalla claramente por qué los controles seleccionados son necesarios y el estado actual de su implementación.
+3. **Justificación de Exclusión:** Validar que cualquier control marcado como "No Aplicable" cuenta con una justificación técnica o de negocio real, documentada y coherente con el alcance del SGSI.
 
 ---
 
-## ⚖️ Justificación de Exclusiones
-*Si has marcado un control como "No Aplicable", debes justificarlo aquí para evitar NC en auditoría.*
+## 🛡️ Matriz de Referencia Especializada (Estructura de los 93 Controles)
 
-* **[ID]:** [Justificación técnica o de negocio].
-* **Ejemplo:** *Control 8.3 (Seguridad en instalaciones físicas): No aplicable, la organización opera 100% en remoto (Cloud).*
+Esta matriz organiza los 93 controles del Anexo A de la versión 2022 en sus 4 grandes bloques temáticos. Utiliza este mapa para dirigir la revisión hacia las guías de evidencias de tu framework:
+
+| Bloque Normativo | Nº Controles | Foco de la Auditoría (¿Qué evidencias buscar?) | Estado del Toolkit | Enlace a la Guía |
+| :--- | :---: | :--- | :---: | :--- |
+| **A.5 Controles Organizativos** | 37 | Políticas de seguridad, gestión de activos, control de accesos corporativo, relaciones con proveedores, gestión de incidentes y continuidad de negocio. | 🟢 Operativo | [Módulo 5](./02-Criterios-Anexo-A/5-Organizativos/) |
+| **A.6 Controles de Personas** | 8 | Ciclo de vida del personal (antes, durante y tras el cese), acuerdos de confidencialidad, directrices de teletrabajo y planes de concienciación. | 🟢 Operativo | [Módulo 6](./02-Criterios-Anexo-A/6-Personas/) |
+| **A.7 Controles Físicos** | 14 | Perímetros de seguridad, barreras físicas, protección contra amenazas ambientales, seguridad en oficinas, instalaciones y soportes de almacenamiento. | 🟢 Operativo | [Módulo 7](./02-Criterios-Anexo-A/7-Fisicos/) |
+| **A.8 Controles Tecnológicos** | 34 | Autenticación, gestión de privilegios, cifrado, copias de seguridad, monitorización de sistemas, gestión de vulnerabilidades y desarrollo seguro. | 🟢 Operativo | [Módulo 8](./02-Criterios-Anexo-A/8-Tecnologicos/) |
+
+---
+
+## ⚖️ Guía de Validación de Exclusiones Comunes
+
+Como Auditor Líder, la defensa de una exclusión debe ser rigurosa. A continuación, se detallan ejemplos de justificaciones válidas frente a argumentos inaceptables durante la fase de campo:
+
+* **Controles de Desarrollo Seguro (A.8.25 a A.8.34):**
+  * *Válido:* "La organización no realiza desarrollo propio ni modificaciones de software; opera exclusivamente con soluciones SaaS comerciales bajo acuerdos de nivel de servicio (SLA)."
+  * *No Válido:* "No los aplicamos porque subcontratamos a una empresa externa para programar la web de la empresa, pero no supervisamos su código." *(Si hay subcontratación de desarrollo, se deben aplicar los controles de supervisión de proveedores).*
+* **Seguridad en Instalaciones Físicas (A.7.3 e infraestructura relacionada):**
+  * *Válido:* "La organización opera bajo un modelo 100% remoto y deslocalizado, sin oficinas físicas ni servidores locales (infraestructura íntegramente en Cloud blindada por controles del proveedor)."
 
 ---
 
-## 🛠️ Herramientas de Gestión
-* [➕ Registrar nueva No Conformidad (NC)](./Template-Registro-NC.md)
-* [📝 Generar Informe de Auditoría](./Template-Informe-Auditoria.md)
-* [📁 Ver estructura completa de directorios](./tree.md)
-
----
-> **Nota de Auditor Líder:** La aplicabilidad de los controles debe ser revisada anualmente o tras cambios significativos en el contexto de la organización (Cláusula 4.1).
+## 🛠️ Herramientas de Campo de Auditoría
+* [➕ Registrar hallazgo / No Conformidad (NC)](./03-Plantillas-y-Toolkits/Template-Registro-NC.md)
+* [📝 Redactar Informe Final de Auditoría](./03-Plantillas-y-Toolkits/Template-Informe-Auditoria.md)
