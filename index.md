@@ -5,12 +5,12 @@ title: "💼 ISO 27001: Lead Auditor Framework & Toolkit"
 
 # 💼 ISO 27001 Lead Auditor Framework & Toolkit
 
-Bienvenid@s a mi entorno personal de auditoría. Este repositorio está estructurado como un **Framework de Evaluación y Toolkit de Recursos Técnicos** de uso propio, diseñado para la planificación, ejecución y documentación de auditorías de seguridad bajo los estándares **ISO 27001:2022** e **ISO 19011**.
+Bienvenid@ a mi entorno personal de auditoría. Este repositorio es un **Framework de Evaluación y Toolkit de Recursos Técnicos** orientado a la planificación, ejecución y documentación de auditorías bajo los estándares **ISO 27001:2022** e **ISO 19011**.
 
-> **Estado del Toolkit (Control de Recursos):**
-> * **Módulos de Revisión Listos:** 4/4 (Organizativos, Personas, Físicos, Tecnológicos)
-> * **Documentación de Campo:** Centro de plantillas y registros centralizados.
-> * **Última actualización normativa:** 2026-06-21
+> **Estado del Toolkit:**
+> * **Módulos de Auditoría:** 4/4 operativos.
+> * **Documentación de Campo:** Centralizada en el Centro de Plantillas.
+> * **Última actualización:** 2026-06-21
 >
 > **[👉 ACCEDER AL DASHBOARD (SoA) - MATRIZ DE AUDITORÍA](./Dashboard-SoA.md)**
 
@@ -18,24 +18,33 @@ Bienvenid@s a mi entorno personal de auditoría. Este repositorio está estructu
 
 ## 🏛️ Estructura del Framework
 
-### 01. Criterios de Gobernanza y Auditoría del Sistema
-*Evaluación del cumplimiento de las cláusulas obligatorias de la norma (Cláusulas 4 a 10).*
-* [Contexto y Alcance (Requisitos de Evidencia)](./01-Gobernanza-y-Estrategia/04-Contexto-y-Alcance/)
-* [Liderazgo, Política y Compromiso Directivo](./01-Gobernanza-y-Estrategia/05-Liderazgo/)
-* [Planificación y Gestión de Riesgos de Seguridad](./01-Gobernanza-y-Estrategia/06-Planificacion/)
-* [Soporte, Competencias y Operación del SGSI](./01-Gobernanza-y-Estrategia/07-Soporte/)
-* [Evaluación del Desempeño y Procesos de Mejora](./01-Gobernanza-y-Estrategia/09-Evaluacion-Desempeno/)
+### 01. Gobernanza y Estrategia
+*Evaluación de las cláusulas obligatorias de la norma (Contexto, Liderazgo, Riesgos).*
 
-### 02. Guías de Verificación del Anexo A (Los 93 Controles)
-*Puntos de control, objetivos de auditoría y evidencias técnicas a solicitar.*
-* [Bloque 5: Controles Organizativos](./02-Criterios-Anexo-A/5-Controles-Organizativos/)
-* [Bloque 6: Controles de Personas](./02-Criterios-Anexo-A/6-Controles-Personas/)
-* [Bloque 7: Controles Físicos](./02-Criterios-Anexo-A/7-Controles-Fisicos/)
-* [Bloque 8: Controles Tecnológicos](./02-Criterios-Anexo-A/8-Controles-Tecnologicos/)
+| Módulo de Auditoría | Descripción del Foco Normativo |
+| :--- | :--- |
+| [Contexto y Alcance](./01-Gobernanza-y-Estrategia/04-Contexto-y-Alcance/) | Definición de los límites del SGSI y partes interesadas. |
+| [Liderazgo y Política](./01-Gobernanza-y-Estrategia/05-Liderazgo/) | Compromiso de la dirección y políticas de seguridad. |
+| [Planificación y Riesgos](./01-Gobernanza-y-Estrategia/06-Planificacion/) | Gestión de riesgos, oportunidades y objetivos. |
+| [Soporte y Operación](./01-Gobernanza-y-Estrategia/07-Soporte/) | Gestión de recursos, competencias y toma de conciencia. |
+| [Evaluación del Desempeño](./01-Gobernanza-y-Estrategia/09-Evaluacion-Desempeno/) | Seguimiento, medición, análisis y auditoría interna. |
 
-### 03. Plantillas y Cuadernos de Campo
-*Centro de recursos y documentación maestra para la ejecución formal de procesos de auditoría.*
-* [**📁 Acceder al Centro de Plantillas y Toolkits**](./03-Plantillas-y-Toolkits/)
+### 02. Criterios Anexo A (Los 93 Controles)
+*Despliegue operativo y evidencias técnicas por bloque normativo.*
+
+| Bloque Normativo | Controles | Foco de Revisión Técnica |
+| :--- | :---: | :--- |
+| [Organizativos](./02-Criterios-Anexo-A/5-Controles-Organizativos/) | 37 | Gobernanza, proveedores, incidentes y continuidad. |
+| [Personas](./02-Criterios-Anexo-A/6-Controles-Personas/) | 8 | Ciclo de vida del personal y concienciación. |
+| [Físicos](./02-Criterios-Anexo-A/7-Controles-Fisicos/) | 14 | Seguridad perimetral y protección de activos físicos. |
+| [Tecnológicos](./02-Criterios-Anexo-A/8-Controles-Tecnologicos/) | 34 | Seguridad lógica, criptografía y redes. |
+
+### 03. Plantillas y Toolkits de Campo
+*Documentación maestra estandarizada para el trabajo del auditor.*
+
+| Herramienta | Uso Principal |
+| :--- | :--- |
+| [**📁 Centro de Plantillas**](./03-Plantillas-y-Toolkits/) | Acceso al catálogo completo de SOPs, modelos de informe y registros de hallazgos. |
 
 ---
 
