@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "🛠️ Plantillas y Toolkits"
+title: "🛠️ Plantillas y Toolkits de Auditoría"
 ---
 
-# 🛠️ Plantillas y Toolkits
+# 🛠️ Plantillas y Toolkits de Auditoría
 
-Este directorio centraliza los modelos maestros de documentación. Utiliza estos archivos como base para asegurar la consistencia y profesionalidad en todos los registros del SGSI.
+Este directorio centraliza los modelos maestros, cuadernos de campo y artefactos documentales del framework. Estos recursos aseguran el rigor metodológico, la estandarización y la consistencia en la recopilación de evidencias, el registro de hallazgos y la emisión de informes técnicos bajo los estándares **ISO 27001:2022** e **ISO 19011**.
 
-## 📄 Catálogo de Plantillas Disponibles
+## 📄 Catálogo de Recursos Disponibles
 
-| Archivo | Descripción |
+| Archivo / Modelo | Propósito en la Auditoría |
 | :--- | :--- |
-| [**Template-Informe-Auditoria.md**](./Template-Informe-Auditoria.md) | Estructura base para la redacción de informes de auditoría interna. |
-| [**Template-Registro-NC.md**](./Template-Registro-NC.md) | Formato estandarizado para el registro y seguimiento de No Conformidades. |
-| [**Template-SOP-Gestion.md**](./Template-SOP-Gestion.md) | Modelo para documentar procedimientos operativos de gestión. |
-| [**Template-SOP-Tecnico.md**](./Template-SOP-Tecnico.md) | Modelo para documentar procedimientos operativos técnicos (SOPs). |
+| [**Template-Informe-Auditoria.md**](./Template-Informe-Auditoria.md) | Estructura formal, cláusulas tipo y formato de dictamen para la redacción del Informe Final de Auditoría. |
+| [**Template-Registro-NC.md**](./Template-Registro-NC.md) | Formato normalizado para la declaración, clasificación (Mayor, Menor u Oportunidad de Mejora) y seguimiento de No Conformidades. |
+| [**Template-SOP-Gestion.md**](./Template-SOP-Gestion.md) | Modelo de referencia utilizado para evaluar la madurez y estructura de los procedimientos de gestión de la organización. |
+| [**Template-SOP-Tecnico.md**](./Template-SOP-Tecnico.md) | Modelo de referencia utilizado para contrastar y verificar la estandarización de los procedimientos técnicos operativos. |
 
 ---
 
-> **Nota:** Antes de iniciar cualquier nueva tarea de auditoría, gestión de incidencias o creación de un nuevo procedimiento, asegúrate de clonar o utilizar estas plantillas para mantener la trazabilidad documental requerida por el estándar.
+> **Nota de Control Documental:** Estas plantillas constituyen el núcleo de la evidencia del auditor. Al iniciar una nueva fase de evaluación de campo, se debe generar una copia de trabajo de estos modelos para preservar la integridad y trazabilidad de los datos recogidos.
