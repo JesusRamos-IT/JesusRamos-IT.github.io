@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "💼 ISO 27001 Lead Auditor Framework & Toolkit"
+title: "💼 ISO 27001: Lead Auditor Framework & Toolkit"
 ---
 
 # 💼 ISO 27001 Lead Auditor Framework & Toolkit
 
-Bienvenid@ a mi entorno de trabajo de auditoría. Este repositorio está estructurado como un **Framework de Evaluación y Toolkit de Recursos Técnicos**, diseñado para la planificación, ejecución y documentación de auditorías de seguridad bajo los estándares **ISO 27001:2022** e **ISO 19011**.
+Bienvenid@s. Este repositorio está estructurado como un **Framework de Evaluación y Toolkit de Recursos Técnicos**, diseñado para la planificación, ejecución y documentación de auditorías de seguridad bajo los estándares **ISO 27001:2022** e **ISO 19011**.
 
 > **Estado del Toolkit (Control de Recursos):**
 > * **Módulos de Revisión Listos:** 4/4 (Organizativos, Personas, Físicos, Tecnológicos)
