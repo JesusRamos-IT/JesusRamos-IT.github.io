@@ -34,13 +34,11 @@ Esta matriz organiza los 93 controles del Anexo A de la versión 2022 en sus 4 g
 
 ## ⚖️ Guía de Validación de Exclusiones Comunes
 
-Como Auditor Líder, la defensa de una exclusión debe ser rigurosa. A continuación, se detallan ejemplos de justificaciones válidas frente a argumentos inaceptables durante la fase de campo:
+De cara a una auditoría del SGSI, la defensa de una exclusión debe ser rigurosa. Te detallo un ejemplo de justificación válida, frente a un argumento no válido, durante la fase de campo:
 
 * **Controles de Desarrollo Seguro (A.8.25 a A.8.34):**
   * *Válido:* "La organización no realiza desarrollo propio ni modificaciones de software; opera exclusivamente con soluciones SaaS comerciales bajo acuerdos de nivel de servicio (SLA)."
   * *No Válido:* "No los aplicamos porque subcontratamos a una empresa externa para programar la web de la empresa, pero no supervisamos su código." *(Si hay subcontratación de desarrollo, se deben aplicar los controles de supervisión de proveedores).*
-* **Seguridad en Instalaciones Físicas (A.7.3 e infraestructura relacionada):**
-  * *Válido:* "La organización opera bajo un modelo 100% remoto y deslocalizado, sin oficinas físicas ni servidores locales (infraestructura íntegramente en Cloud blindada por controles del proveedor)."
 
 ---
 
