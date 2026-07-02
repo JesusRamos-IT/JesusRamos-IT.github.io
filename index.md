@@ -23,11 +23,11 @@ Bienvenid@ a mi entorno personal de auditoría. Este repositorio es un **Framewo
 
 | Módulo de Auditoría | Descripción del Foco Normativo |
 | :--- | :--- |
-| [Contexto y Alcance](./01-Gobernanza-y-Estrategia/04-Contexto-y-Alcance/) | Definición de los límites del SGSI y partes interesadas. |
-| [Liderazgo y Política](./01-Gobernanza-y-Estrategia/05-Liderazgo/) | Compromiso de la dirección y políticas de seguridad. |
-| [Planificación y Riesgos](./01-Gobernanza-y-Estrategia/06-Planificacion/) | Gestión de riesgos, oportunidades y objetivos. |
-| [Soporte y Operación](./01-Gobernanza-y-Estrategia/07-Soporte/) | Gestión de recursos, competencias y toma de conciencia. |
-| [Evaluación del Desempeño](./01-Gobernanza-y-Estrategia/09-Evaluacion-Desempeno/) | Seguimiento, medición, análisis y auditoría interna. |
+| [Contexto y Alcance](./01-Gobernanza-y-Estrategia/04-Contexto-y-Alcance/index.md) | Definición de los límites del SGSI y partes interesadas. |
+| [Liderazgo y Política](./01-Gobernanza-y-Estrategia/05-Liderazgo/index.md) | Compromiso de la dirección y políticas de seguridad. |
+| [Planificación y Riesgos](./01-Gobernanza-y-Estrategia/06-Planificacion/index.md) | Gestión de riesgos, oportunidades y objetivos. |
+| [Soporte y Operación](./01-Gobernanza-y-Estrategia/07-Soporte/index.md) | Gestión de recursos, competencias y toma de conciencia. |
+| [Evaluación del Desempeño](./01-Gobernanza-y-Estrategia/09-Evaluacion-Desempeno/index.md) | Seguimiento, medición, análisis y auditoría interna. |
 
 ### 02. Criterios Anexo A (Los 93 Controles)
 *Despliegue operativo y evidencias técnicas por bloque normativo.*
