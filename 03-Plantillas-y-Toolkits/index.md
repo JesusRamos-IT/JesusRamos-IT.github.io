@@ -11,10 +11,10 @@ Este directorio centraliza los modelos maestros, cuadernos de campo y artefactos
 
 | Archivo / Modelo | Propósito en la Auditoría |
 | :--- | :--- |
-| [**Template-Informe-Auditoria.md**](./Template-Informe-Auditoria.md) | Estructura formal, cláusulas tipo y formato de dictamen para la redacción del Informe Final de Auditoría. |
-| [**Template-Registro-NC.md**](./Template-Registro-NC.md) | Formato normalizado para la declaración, clasificación (Mayor, Menor u Oportunidad de Mejora) y seguimiento de No Conformidades. |
-| [**Template-SOP-Gestion.md**](./Template-SOP-Gestion.md) | Modelo de referencia utilizado para evaluar la madurez y estructura de los procedimientos de gestión de la organización. |
-| [**Template-SOP-Tecnico.md**](./Template-SOP-Tecnico.md) | Modelo de referencia utilizado para contrastar y verificar la estandarización de los procedimientos técnicos operativos. |
+| [**Plantilla-Informe-Auditoria**](./Template-Informe-Auditoria.md) | Estructura formal, cláusulas tipo y formato de dictamen para la redacción del Informe Final de Auditoría. |
+| [**Plantilla-Registro-NC**](./Template-Registro-NC.md) | Formato normalizado para la declaración, clasificación (Mayor, Menor u Oportunidad de Mejora) y seguimiento de No Conformidades. |
+| [**Plantilla-SOP-Gestion**](./Template-SOP-Gestion.md) | Modelo de referencia utilizado para evaluar la madurez y estructura de los procedimientos de gestión de la organización. |
+| [**Plantilla-SOP-Tecnico**](./Template-SOP-Tecnico.md) | Modelo de referencia utilizado para contrastar y verificar la estandarización de los procedimientos técnicos operativos. |
 
 ---
 
