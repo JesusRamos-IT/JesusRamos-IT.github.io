@@ -18,16 +18,18 @@ Bienvenid@ a mi entorno personal de auditoría. Este repositorio es un **Framewo
 
 ## 🏛️ Estructura del Framework
 
-### 01. Gobernanza y Estrategia
-*Evaluación de las cláusulas obligatorias de la norma (Contexto, Liderazgo, Riesgos).*
+### 01. Gobernanza y Estrategia (Cláusulas 4 a 10)
+*Mis guías de evaluación para las cláusulas obligatorias de la norma ISO 27001.*
 
-| Módulo de Auditoría | Descripción del Foco Normativo |
-| :--- | :--- |
-| [Contexto y Alcance](./01-Gobernanza-y-Estrategia/04-Contexto-y-Alcance/index.md) | Definición de los límites del SGSI y partes interesadas. |
-| [Liderazgo y Política](./01-Gobernanza-y-Estrategia/05-Liderazgo/index.md) | Compromiso de la dirección y políticas de seguridad. |
-| [Planificación y Riesgos](./01-Gobernanza-y-Estrategia/06-Planificacion/index.md) | Gestión de riesgos, oportunidades y objetivos. |
-| [Soporte y Operación](./01-Gobernanza-y-Estrategia/07-Soporte/index.md) | Gestión de recursos, competencias y toma de conciencia. |
-| [Evaluación del Desempeño](./01-Gobernanza-y-Estrategia/09-Evaluacion-Desempeno/index.md) | Seguimiento, medición, análisis y auditoría interna. |
+| Módulo de Auditoría | Cláusula | Foco de Revisión (Mis notas) |
+| :--- | :---: | :--- |
+| [Contexto y Alcance](./01-Gobernanza-y-Estrategia/04-Contexto-y-Alcance/) | 4 | Límites del SGSI y partes interesadas. |
+| [Liderazgo](./01-Gobernanza-y-Estrategia/05-Liderazgo/) | 5 | Compromiso directivo, política y roles. |
+| [Planificación](./01-Gobernanza-y-Estrategia/06-Planificacion/) | 6 | Riesgos, oportunidades y objetivos. |
+| [Soporte](./01-Gobernanza-y-Estrategia/07-Soporte/) | 7 | Recursos, concienciación y control documental. |
+| [Operación](./01-Gobernanza-y-Estrategia/08-Operacion/) | 8 | Apreciación y tratamiento del riesgo operativo. |
+| [Evaluación del Desempeño](./01-Gobernanza-y-Estrategia/09-Evaluacion-Desempeno/) | 9 | Medición, auditoría interna y revisión directiva. |
+| [Mejora](./01-Gobernanza-y-Estrategia/10-Mejora/) | 10 | No conformidades y mejora continua. |
 
 ### 02. Criterios Anexo A (Los 93 Controles)
 *Despliegue operativo y evidencias técnicas por bloque normativo.*
