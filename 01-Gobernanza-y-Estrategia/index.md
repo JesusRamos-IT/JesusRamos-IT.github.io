@@ -17,13 +17,13 @@ Su propósito es servir como cuadro de mandos interactivo para evaluar de forma 
 
 | Cláusula ISO | Componente del Sistema | ¿Qué se evalúa en esta sección? | Guías de Campo |
 | :--- | :--- | :--- | :---: |
-| **Cláusula 4** | 🔍 Contexto y Alcance | Los límites del SGSI, el entorno de la organización y los requisitos de las partes interesadas. | [ Explorar ](./04-Contexto-y-Alcance/) |
-| **Cláusula 5** | 👑 Liderazgo y Política | El compromiso real de la Alta Dirección, la Política de Seguridad y la asignación de roles técnicos. | [ Explorar ](./05-Liderazgo/) |
-| **Cláusula 6** | 🎯 Planificación | La metodología de análisis de riesgos, el tratamiento de amenazas y los objetivos del SGSI. | [ Explorar ](./06-Planificacion/) |
-| **Cláusula 7** | 🤝 Soporte y Recursos | La competencia del personal, los planes de concienciación, la comunicación y el control documental. | [ Explorar ](./07-Soporte/) |
-| **Cláusula 8** | ⚙️ Operación Técnica | La planificación operacional en producción y la ejecución real del plan de tratamiento de riesgos. | [ Explorar ](./08-Operacion/) |
-| **Cláusula 9** | 📈 Evaluación del Desempeño | Los indicadores de cumplimiento (KPIs), el estado de las auditorías internas y la revisión directiva. | [ Explorar ](./09-Evaluacion-Desempeno/) |
-| **Cláusula 10** | 🚀 Mejora Continua | La gestión de incidentes, el análisis de causa raíz y el cierre efectivo de No Conformidades (NC). | [ Explorar ](./10-Mejora/) |
+| **Cláusula 4** | 🔍 Contexto y Alcance | Los límites del SGSI, el entorno de la organización y los requisitos de las partes interesadas. | [ Explorar ](./04-Contexto-y-Alcance/index.md) |
+| **Cláusula 5** | 👑 Liderazgo y Política | El compromiso real de la Alta Dirección, la Política de Seguridad y la asignación de roles técnicos. | [ Explorar ](./05-Liderazgo/index.md) |
+| **Cláusula 6** | 🎯 Planificación | La metodología de análisis de riesgos, el tratamiento de amenazas y los objetivos del SGSI. | [ Explorar ](./06-Planificacion/index.md) |
+| **Cláusula 7** | 🤝 Soporte y Recursos | La competencia del personal, los planes de concienciación, la comunicación y el control documental. | [ Explorar ](./07-Soporte/index.md) |
+| **Cláusula 8** | ⚙️ Operación Técnica | La planificación operacional en producción y la ejecución real del plan de tratamiento de riesgos. | [ Explorar ](./08-Operacion/index.md) |
+| **Cláusula 9** | 📈 Evaluación del Desempeño | Los indicadores de cumplimiento (KPIs), el estado de las auditorías internas y la revisión directiva. | [ Explorar ](./09-Evaluacion-Desempeno/index.md) |
+| **Cláusula 10** | 🚀 Mejora Continua | La gestión de incidentes, el análisis de causa raíz y el cierre efectivo de No Conformidades (NC). | [ Explorar ](./10-Mejora/index.md) |
 
 ---
 
