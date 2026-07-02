@@ -1,57 +1,73 @@
 ---
 layout: default
-title: "🛡️ SGSI: Controles Anexo A"
+title: "🛡️ Criterios de Auditoría: Anexo A"
 ---
 
-# 🛡️ Implementación de Controles ISO 27001:2022
+# 🛡️ Guías de Evaluación: Controles Anexo A ISO 27001:2022
 
-Este directorio centraliza la documentación técnica y operativa de los controles de seguridad, alineados con la taxonomía oficial de la **norma ISO/IEC 27001:2022**.
+Este directorio centraliza los criterios de inspección, objetivos de control y listas de evidencias requeridas para evaluar las salvaguardas de seguridad de la información, organizados bajo los 4 bloques temáticos del **Anexo A de la norma ISO/IEC 27001:2022**.
 
 ---
 
 ## 🏛️ Módulo 5: Controles Organizativos
-* [**5.1** - Políticas para la Seguridad de la Información](./Modulo1-Controles-Organizativos/5.1-Plan-Seguridad.md)
-* [**5.9** - Inventario y Clasificación de Información](./Modulo1-Controles-Organizativos/5.9-Clasificacion-Informacion.md)
-* [**5.21** - Seguridad en la Relación con Proveedores](./Modulo1-Controles-Organizativos/5.21-Relacion-Proveedores.md)
-* [**5.24** - Gestión de Incidentes de Seguridad](./Modulo1-Controles-Organizativos/5.24-Respuestas-Incidentes.md)
-* [**5.30** - Continuidad de las TIC](./Modulo1-Controles-Organizativos/5.30-Continuidad-Negocio.md)
-* [**5.36** - Cumplimiento Legal y Normativo](./Modulo1-Controles-Organizativos/5.36-Cumplimiento-Legal.md)
+*Evaluación de la gobernanza, gestión de activos, cadena de suministro e incidentes operativos.*
+
+| ID | Control Oficial (ISO 27001) | Propósito de la Guía de Evaluación | Acceso Directo |
+| :--- | :--- | :--- | :---: |
+| **5.1** | Políticas para la Seguridad de la Información | Verificar la aprobación, comunicación y revisión formal de las directivas. | [ Explorar Guía ](./5-Cotroles-Organizativos/5.1-Plan-Seguridad.md) |
+| **5.9** | Inventario y Clasificación de Información | Evaluar las reglas de inventariado de activos y etiquetado de confidencialidad. | [ Explorar Guía ](./5-Cotroles-Organizativos/5.9-Clasificacion-Informacion.md) |
+| **5.21** | Seguridad en la Relación con Proveedores | Revisar los requisitos de seguridad y acuerdos (SLA) exigidos a terceros. | [ Explorar Guía ](./5-Cotroles-Organizativos/5.21-Relacion-Proveedores.md) |
+| **5.24** | Gestión de Incidentes de Seguridad | Examinar la eficacia en la detección, reporte y mitigación de eventos. | [ Explorar Guía ](./5-Cotroles-Organizativos/5.24-Respuestas-Incidentes.md) |
+| **5.30** | Continuidad de las TIC | Validar la redundancia, planes de contingencia y test de recuperación. | [ Explorar Guía ](./5-Cotroles-Organizativos/5.30-Continuidad-Negocio.md) |
+| **5.36** | Cumplimiento Legal y Normativo | Asegurar la identificación de requisitos regulatorios, legales y contractuales. | [ Explorar Guía ](./5-Cotroles-Organizativos/5.36-Cumplimiento-Legal.md) |
 
 ---
 
 ## 👥 Módulo 6: Controles de Personas
-* [**6.2** - Términos y Condiciones del Empleo](./Modulo2-Controles-Personas/6.2-Gestion-Recursos-Humanos.md)
-* [**6.3** - Concienciación y Formación](./Modulo2-Controles-Personas/6.3-Formacion-Concienciacion.md)
-* [**6.7** - Trabajo Remoto](./Modulo2-Controles-Personas/6.7-Teletrabajo.md)
+*Revisión de las responsabilidades de seguridad asociadas al ciclo de vida del personal.*
+
+| ID | Control Oficial (ISO 27001) | Propósito de la Guía de Evaluación | Acceso Directo |
+| :--- | :--- | :--- | :---: |
+| **6.2** | Términos y Condiciones del Empleo | Revisar acuerdos de confidencialidad (NDAs) y responsabilidades tras el cese. | [ Explorar Guía ](./6-Controles-Personas/6.2-Gestion-Recursos-Humanos.md) |
+| **6.3** | Concienciación y Formación | Evaluar la ejecución del plan de sensibilización y métricas de eficacia. | [ Explorar Guía ](./6-Controles-Personas/6.3-Formacion-Concienciacion.md) |
+| **6.7** | Trabajo Remoto | Verificar el despliegue de directrices de seguridad específicas para teletrabajo. | [ Explorar Guía ](./6-Controles-Personas/6.7-Teletrabajo.md) |
 
 ---
 
 ## 🔑 Módulo 7: Controles Físicos
-* [**7.7** - Escritorio Limpio y Pantalla Clara](./Modulo3-Controles-Fisicos-Puesto/7.7-Proteccion-Puesto-Trabajo.md)
-* [**7.10** - Medios de Almacenamiento (Local)](./Modulo3-Controles-Fisicos-Puesto/7.10-Almacenamiento-Equipo-Local.md)
-* [**7.10** - Gestión de Dispositivos Extraíbles](./Modulo3-Controles-Fisicos-Puesto/7.10-Dispositivos-Extraibles.md)
-* [**7.13** - Dispositivos de Usuario Final (Corporativos)](./Modulo3-Controles-Fisicos-Puesto/7.13-Moviles-Corporativos.md)
-* [**7.13** - Dispositivos de Usuario Final (BYOD)](./Modulo3-Controles-Fisicos-Puesto/7.13-Moviles-No-Corporativos.md)
+*Inspección de las barreras perimetrales, áreas seguras y protección de equipamiento.*
+
+| ID | Control Oficial (ISO 27001) | Propósito de la Guía de Evaluación | Acceso Directo |
+| :--- | :--- | :--- | :---: |
+| **7.7** | Escritorio Limpio y Pantalla Clara | Evaluar pautas de bloqueo de sesiones y custodia de soportes impresos. | [ Explorar Guía ](./7-Controles-Fisicos/7.7-Proteccion-Puesto-Trabajo.md) |
+| **7.10** | Medios de Almacenamiento (Local) | Verificar el control operacional de soportes de datos en hardware local. | [ Explorar Guía ](./7-Controles-Fisicos/7.10-Almacenamiento-Equipo-Local.md) |
+| **7.10** | Gestión de Dispositivos Extraíbles | Controlar las restricciones, cifrado y políticas de uso de USBs o discos externos. | [ Explorar Guía ](./7-Controles-Fisicos/7.10-Dispositivos-Extraibles.md) |
+| **7.13** | Dispositivos de Usuario Final (Corporativos) | Auditar los requisitos de endurecimiento (hardening) y gestión de terminales propios. | [ Explorar Guía ](./7-Controles-Fisicos/7.13-Moviles-Corporativos.md) |
+| **7.13** | Dispositivos de Usuario Final (BYOD) | Revisar los mecanismos de aislamiento y acceso seguro desde equipos personales. | [ Explorar Guía ](./7-Controles-Fisicos/7.13-Moviles-No-Corporativos.md) |
 
 ---
 
 ## 🔧 Módulo 8: Controles Tecnológicos
-* [**8.1** - Seguridad de Redes (Acceso Externo)](./Modulo4-Controles-Tecnologicos/8.1-Acceso-Redes-No-Corporativas.md)
-* [**8.2** - Gestión de Derechos de Acceso](./Modulo4-Controles-Tecnologicos/8.2-Acceso-Control-Informacion.md)
-* [**8.5** - Autenticación Segura (Contraseñas)](./Modulo4-Controles-Tecnologicos/8.5-Contraseñas.md)
-* [**8.7** - Protección contra Malware](./Modulo4-Controles-Tecnologicos/8.7-Antimalware.md)
-* [**8.10** - Eliminación de Información (Borrado Seguro)](./Modulo4-Controles-Tecnologicos/8.10-Borrado-Seguro.md)
-* [**8.11** - Seguridad en el Correo Electrónico](./Modulo4-Controles-Tecnologicos/8.11-Correo-Electronico.md)
-* [**8.12** - Seguridad de los Servicios de Red](./Modulo4-Controles-Tecnologicos/8.12-Almacenamiento-Red-Corporativa.md)
-* [**8.13** - Copias de Seguridad (Backup)](./Modulo4-Controles-Tecnologicos/8.13-Sistema-Copias-Seguridad.md)
-* [**8.15** - Registro de Actividades (Logs)](./Modulo4-Controles-Tecnologicos/8.15-Gestion-Logs.md)
-* [**8.19** - Instalación de Software en Sistemas](./Modulo4-Controles-Tecnologicos/8.19-Actualizacion-Software.md)
-* [**8.19** - Restricciones de Instalación de Software](./Modulo4-Controles-Tecnologicos/8.19-Aplicaciones-Permitidas.md)
-* [**8.22** - Filtrado de Contenido (Web)](./Modulo4-Controles-Tecnologicos/8.22-Pagina-Web.md)
-* [**8.24** - Uso de Criptografía (Cifrado)](./Modulo4-Controles-Tecnologicos/8.24-Tecnicas-Criptograficas.md)
-* [**8.28** - Recopilación de Evidencias (Auditoría)](./Modulo4-Controles-Tecnologicos/8.28-Auditorias-Sistema.md)
-* [**8.32** - Seguridad en Servicios Cloud](./Modulo4-Controles-Tecnologicos/8.32-Almacenamiento-Nube.md)
+*Auditoría de la seguridad lógica, autenticación, redes, cifrado y monitorización.*
+
+| ID | Control Oficial (ISO 27001) | Propósito de la Guía de Evaluación | Acceso Directo |
+| :--- | :--- | :--- | :---: |
+| **8.1** | Seguridad de Redes (Acceso Externo) | Verificar el control de perímetros lógicos, segmentación y accesos remotos. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.1-Acceso-Redes-No-Corporativas.md) |
+| **8.2** | Gestión de Derechos de Acceso | Revisar la asignación de privilegios técnicos y el principio de mínimo privilegio. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.2-Acceso-Control-Informacion.md) |
+| **8.5** | Autenticación Segura (Contraseñas) | Validar directivas de complejidad, uso de doble factor (MFA) y rotación. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.5-Contrasenas.md) |
+| **8.7** | Protección contra Malware | Auditar el estado de los agentes EDR/antivirus y políticas de exclusión. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.7-Antimalware.md) |
+| **8.10** | Eliminación de Información (Borrado Seguro)| Comprobar técnicas de sobrescritura lógica o destrucción de soportes en desuso. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.10-Borrado-Seguro.md) |
+| **8.11** | Seguridad en el Correo Electrónico | Evaluar configuraciones antiphishing, pasarelas de correo y registros DNS. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.11-Correo-Electronico.md) |
+| **8.12** | Seguridad de los Servicios de Red | Controlar el inventario de puertos, monitorización de tráfico y cortafuegos. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.12-Almacenamiento-Red-Corporativa.md) |
+| **8.13** | Copias de Seguridad (Backup) | Verificar la inmutabilidad de copias, ventanas de backup y test de restauración. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.13-Sistema-Copias-Seguridad.md) |
+| **8.15** | Registro de Actividades (Logs) | Auditar la recolección, centralización en SIEM y custodia a prueba de manipulaciones. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.15-Gestion-Logs.md) |
+| **8.19** | Instalación de Software (Parches) | Analizar los ciclos de actualización de sistemas y remediación de exploits CVE. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.19-Actualizacion-Software.md) |
+| **8.19** | Restricciones de Instalación | Validar las directivas de restricción de software y listas blancas de ejecución. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.19-Aplicaciones-Permitidas.md) |
+| **8.22** | Filtrado de Contenido (Web) | Revisar las herramientas perimetrales o de endpoint para el bloqueo web nocivo. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.22-Pagina-Web.md) |
+| **8.24** | Uso de Criptografía (Cifrado) | Validar la solidez de las primitivas criptográficas aplicadas en reposo y tránsito. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.24-Tecnicas-Criptograficas.md) |
+| **8.28** | Recopilación de Evidencias (Auditoría) | Garantizar la protección de las herramientas de auditoría frente a interferencias. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.28-Auditorias-Sistema.md) |
+| **8.32** | Seguridad en Servicios Cloud | Auditar el control de accesos IAM y hardening de paneles de administración en la nube. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.32-Almacenamiento-Nube.md) |
 
 ---
 
-> **Nota de Auditoría:** Este índice refleja la implementación técnica de los controles del Anexo A. Cada enlace dirige a la documentación específica del control, incluyendo las configuraciones, políticas y evidencias técnicas asociadas.
+> **Nota de Control Técnico:** Este índice unificado constituye la base operativa de la Fase 2 de auditoría. El análisis pormenorizado de las muestras recolectadas en estos enlaces proporcionará las evidencias objetivas necesarias para validar el grado de cumplimiento real del Anexo A frente a lo declarado en el SoA de la organización.
