@@ -8,7 +8,7 @@ parent: "01. Gobernanza y Estrategia"
 
 Checklists para verificar que el SGSI cuenta con los recursos, la concienciación y el control documental necesarios para funcionar.
 
-## 📋 Mis Guías de Verificación
+## 📋 Mis Guías de Verificación:
 
 * [**7.1** - Recursos](./7.1-Recursos.md)
 * [**7.2** - Competencia](./7.2-Competencia.md)
