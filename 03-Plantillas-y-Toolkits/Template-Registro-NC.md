@@ -53,3 +53,10 @@ title: "NC-YYYY-NNN: [Título breve de la NC]"
 *   **Estado final:** [CERRADA / ABIERTA - Pendiente de seguimiento]
 
 > **Firma del Responsable del SGSI:** _________________________
+
+---
+
+## 🗺️ Navegación Rápida
+
+* 📁 [Volver al Centro de Plantillas](./index.md)
+* 📈 [Ir al Cuadro de Mando: Dashboard SoA](../Dashboard-SoA.md)
