@@ -22,3 +22,10 @@ A continuación se listan los procedimientos de auditoría y checklists document
 
 ---
 > **Nota del Auditor:** Durante el trabajo de campo del control 6.3, es crítico no conformarse con revisar el "plan de formación" en papel. Se deben solicitar evidencias trazables de su ejecución real (registros de asistencia firmados, logs de plataformas e-learning o resultados de test de evaluación).
+
+---
+
+## 🗺️ Navegación Rápida
+
+* 🛡️ [Volver al Índice del Anexo A (Controles)](../)
+* 📈 [Ir al Cuadro de Mando: Dashboard SoA](../../Dashboard-SoA.md)
