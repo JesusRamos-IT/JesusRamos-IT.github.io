@@ -57,3 +57,10 @@ title: "Informe de Auditoría Interna - [YYYY-MM]"
 **Auditor Líder:** _________________________ | **Fecha:** YYYY-MM-DD
 
 **Responsable SGSI:** _________________________ | **Fecha:** YYYY-MM-DD
+
+---
+
+## 🗺️ Navegación Rápida
+
+* 📁 [Volver al Centro de Plantillas](./index.md)
+* 📈 [Ir al Cuadro de Mando: Dashboard SoA](../Dashboard-SoA.md)
