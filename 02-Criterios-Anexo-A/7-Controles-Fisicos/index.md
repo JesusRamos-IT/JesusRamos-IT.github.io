@@ -24,3 +24,10 @@ A continuación se listan los procedimientos de auditoría y checklists document
 
 ---
 > **Nota del Auditor:** La evaluación de los controles físicos (especialmente el 7.7) requiere obligatoriamente observación directa. Durante la auditoría in situ (o la revisión por videollamada en entornos 100% remotos), se debe verificar visualmente si existen contraseñas apuntadas en post-its, documentación confidencial impresa sobre las mesas o equipos sin bloquear en ausencia del usuario.
+
+---
+
+## 🗺️ Navegación Rápida
+
+* 🛡️ [Volver al Índice del Anexo A (Controles)](../)
+* 📈 [Ir al Cuadro de Mando: Dashboard SoA](../../Dashboard-SoA.md)
