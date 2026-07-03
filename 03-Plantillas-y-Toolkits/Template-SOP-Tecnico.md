@@ -37,3 +37,10 @@ title: "[ID_CONTROL] - [Nombre del Control]"
 | **Sistemas críticos expuestos**, sin protección perimetral, o ausencia total de recolección de eventos. | 🚨 **NC Mayor** | Aislamiento, despliegue urgente del agente/control y análisis de impacto. |
 | El control está automatizado y centralizado, pero un nodo recién desplegado **no heredó la política** correctamente. | ⚠️ **NC Menor** | Corrección del nodo y ajuste en la plantilla de despliegue. |
 | Las alertas funcionan, pero los umbrales generan falsos positivos que causan fatiga de alertas. | 💡 **Observación (OFI)** | Afinar las reglas de correlación del SIEM. |
+
+---
+
+## 🗺️ Navegación Rápida
+
+* 📁 [Volver al Centro de Plantillas](./index.md)
+* 📈 [Ir al Cuadro de Mando: Dashboard SoA](../Dashboard-SoA.md)
