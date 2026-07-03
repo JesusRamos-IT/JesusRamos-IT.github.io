@@ -37,3 +37,10 @@ title: "[ID_CONTROL] - [Nombre del Control]"
 | **Ausencia de directriz** o documento obsoleto que no refleja la realidad de la empresa. | 🚨 **NC Mayor** | Redacción, aprobación y difusión inmediata de la política. |
 | El procedimiento existe, pero en la muestra analizada **falta la firma** de la última incorporación. | ⚠️ **NC Menor** | Subsanación de la firma y revisión del proceso de *onboarding*. |
 | Documentación correcta, pero el formato no sigue el estándar de control documental. | 💡 **Observación (OFI)** | Adecuar al estándar en la próxima revisión anual. |
+
+---
+
+## 🗺️ Navegación Rápida
+
+* 📁 [Volver al Centro de Plantillas](./index.md)
+* 📈 [Ir al Cuadro de Mando: Dashboard SoA](../Dashboard-SoA.md)
