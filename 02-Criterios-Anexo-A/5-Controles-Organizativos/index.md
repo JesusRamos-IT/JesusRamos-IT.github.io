@@ -25,3 +25,10 @@ A continuación se listan los procedimientos de auditoría y checklists document
 
 ---
 > **Nota del Auditor:** Durante el trabajo de campo, verificar siempre que las políticas documentadas en el control 5.1 están formalmente aprobadas por la Dirección y han sido comunicadas a los empleados relevantes (enlace con el Módulo 6).
+
+---
+
+## 🗺️ Navegación Rápida
+
+* 🛡️ [Volver al Índice del Anexo A (Controles)](../)
+* 📈 [Ir al Cuadro de Mando: Dashboard SoA](../../Dashboard-SoA.md)
