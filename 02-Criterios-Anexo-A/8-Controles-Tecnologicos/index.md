@@ -34,3 +34,10 @@ A continuación se listan los procedimientos de auditoría y checklists document
 
 ---
 > **Nota del Auditor:** En la revisión de los controles tecnológicos, la evidencia puramente documental (como una política escrita) es insuficiente. Como Auditor Líder, se deben solicitar muestras técnicas en tiempo real durante el muestreo: configuraciones activas de directivas de grupo (GPOs) para el control de contraseñas (8.5), políticas de retención y alertas en el concentrador de logs (8.15) o los informes del último test de restauración de backups (8.13) para comprobar que las copias son realmente funcionales.
+
+---
+
+## 🗺️ Navegación Rápida
+
+* 🛡️ [Volver al Índice del Anexo A (Controles)](../)
+* 📈 [Ir al Cuadro de Mando: Dashboard SoA](../../Dashboard-SoA.md)
