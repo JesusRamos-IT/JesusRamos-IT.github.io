@@ -7,6 +7,15 @@ title: "[ID_CONTROL] - [Nombre del Control]"
 
 > **Etiqueta ISO:** #Protección #Detección | **Dominio:** [Físico / Tecnológico]
 
+## 👤 Perfil del Control
+| Campo | Detalle |
+| :--- | :--- |
+| **Responsable (Owner):** | [Rol o persona que responde por este control] |
+| **Estado:** | [Implementado / En proceso / Planificado] |
+| **Vinculación a Riesgo:** | [Referencia a qué riesgo mitiga este control] |
+
+---
+
 ## 1. 🎯 Propósito del Control
 *Define el objetivo de la medida técnica para salvaguardar la Confidencialidad, Integridad y Disponibilidad (CID).*
 **Ejemplo:** Detectar, registrar y alertar sobre eventos anómalos o fallos de acceso en la infraestructura crítica.
