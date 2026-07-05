@@ -8,6 +8,7 @@ title: "[ID_CONTROL] - [Nombre del Control]"
 > **Etiqueta ISO:** #Protección #Detección | **Dominio:** [Físico / Tecnológico]
 
 ## 👤 Perfil del Control
+
 | Campo | Detalle |
 | :--- | :--- |
 | **Responsable (Owner):** | [Rol o persona que responde por este control] |
