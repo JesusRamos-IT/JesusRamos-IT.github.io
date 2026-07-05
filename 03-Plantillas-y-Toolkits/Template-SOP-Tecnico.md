@@ -50,6 +50,5 @@ title: "[ID_CONTROL] - [Nombre del Control]"
 ---
 
 ## 🗺️ Navegación Rápida
-
-* 📁 [Volver al Centro de Plantillas](./index.md)
+* 📁 [Volver al Centro de Plantillas y Toolkits](./index.md)
 * 📈 [Ir al Cuadro de Mando: Dashboard SoA](../Dashboard-SoA.md)
