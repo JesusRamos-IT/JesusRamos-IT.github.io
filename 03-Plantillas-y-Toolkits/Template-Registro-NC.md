@@ -60,5 +60,5 @@ title: "Registro de NC y PAC"
 ---
 
 ## 🗺️ Navegación Rápida
-* 📊 [Volver al Índice de Gobernanza y Estrategia](../)
-* 📁 [Volver a 03-Plantillas-y-Toolkits](../)
+* 📁 [Volver al Centro de Plantillas y Toolkits](./index.md)
+* 📈 [Ir al Cuadro de Mando: Dashboard SoA](../Dashboard-SoA.md)
