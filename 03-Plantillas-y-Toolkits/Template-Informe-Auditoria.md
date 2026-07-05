@@ -61,5 +61,5 @@ title: "Informe de Auditoría Interna - [YYYY-MM]"
 ---
 
 ## 🗺️ Navegación Rápida
-* 📁 [Volver al Centro de Plantillas y Toolkits](../index.md)
+* 📁 [Volver al Centro de Plantillas y Toolkits](./index.md)
 * 📈 [Ir al Cuadro de Mando: Dashboard SoA](../Dashboard-SoA.md)
