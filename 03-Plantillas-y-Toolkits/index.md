@@ -11,11 +11,11 @@ Este directorio centraliza los modelos maestros, cuadernos de campo y artefactos
 
 | Archivo / Modelo | Propósito en la Auditoría |
 | :--- | :--- |
-| [**Plantilla-Informe-Auditoria**](./Template-Informe-Auditoria.md) | Estructura formal, cláusulas tipo y formato de dictamen para la redacción del Informe Final de Auditoría. |
-| [**Plantilla-Registro-NC**](./Template-Registro-NC.md) | Formato normalizado para la declaración, clasificación (Mayor, Menor u Oportunidad de Mejora) y seguimiento de No Conformidades. |
-| [**Plantilla-SOP-Gestion**](./Template-SOP-Gestion.md) | Modelo de referencia utilizado para evaluar la madurez y estructura de los procedimientos de gestión de la organización. |
-| [**Plantilla-SOP-Tecnico**](./Template-SOP-Tecnico.md) | Modelo de referencia utilizado para contrastar y verificar la estandarización de los procedimientos técnicos operativos. |
+| [**Template-Informe-Auditoria**](./Template-Informe-Auditoria.md) | Estructura formal con cláusula de muestreo, resumen ejecutivo y formato de dictamen. Listo para consolidar resultados y reportar a la Alta Dirección. |
+| [**Template-Registro-NC**](./Template-Registro-NC.md) | Ficha integral para la gestión completa de desviaciones: desde la declaración y clasificación del hallazgo, hasta el Análisis de Causa Raíz (RCA) y el Plan de Acciones Correctivas (PAC). |
+| [**Template-SOP-Gestion**](./Template-SOP-Gestion.md) | Modelo para documentar procesos organizativos y administrativos, asegurando la vinculación directa con los controles del Anexo A y la generación de registros. |
+| [**Template-SOP-Tecnico**](./Template-SOP-Tecnico.md) | Modelo directo para estandarizar procedimientos de IT (despliegues, hardening, automatizaciones). Enfocado en la trazabilidad técnica (logs, GPOs, SIEM) y la ejecución paso a paso. |
 
 ---
 
-> **Nota de Control Documental:** Estas plantillas constituyen el núcleo de la evidencia del auditor. Al iniciar una nueva fase de evaluación de campo, se debe generar una copia de trabajo de estos modelos para preservar la integridad y trazabilidad de los datos recogidos.
+> **⚙️ Nota Operativa:** Estas plantillas constituyen el núcleo del trabajo de campo. Para preservar la limpieza del repositorio maestro, genera siempre una copia local de estos archivos al iniciar un nuevo ciclo de auditoría o al documentar un nuevo hallazgo, manteniendo intactos los modelos base.
