@@ -1,62 +1,64 @@
 ---
 layout: default
-title: "NC-YYYY-NNN: [Título breve de la NC]"
+title: "Registro de NC y PAC"
 ---
 
-# 📝 Registro de No Conformidad (NC)
+# 📋 Registro de NC y Plan de Acciones Correctivas (PAC)
 
-> **Referencia:** NC-[Año]-[Número] | **Fecha de Emisión:** YYYY-MM-DD | **Auditor/Emisor:** [Nombre]
+> **Documento:** Ficha de gestión integral de No Conformidad | **Dominio:** Mejora Continua
 
----
+## 1. 📝 Datos de la No Conformidad
+| Campo | Detalle |
+| :--- | :--- |
+| **Referencia (ID):** | (Ej: NC-2026-001) |
+| **Fecha de Detección:** | YYYY-MM-DD |
+| **Apartado Norma/Proc:** | (Ej: ISO 27001 8.1) |
+| **Detectado por:** | |
 
-## 1. Identificación del Hallazgo
-*   **Origen del Hallazgo:** [Auditoría Interna / Auditoría Externa / Revisión por Dirección / Incidente de Seguridad]
-*   **Control ISO 27001 relacionado:** [Ej: A.8.16]
-*   **Clasificación:** [NC Mayor / NC Menor / Observación]
-*   **Área / Proceso afectado:** [Ej: Gestión de Activos / RRHH / Infraestructura Tecnológica]
-
----
-
-## 2. Descripción y Evidencia Objetiva
-*Describe el hecho. Sé quirúrgico: el auditor no opina, el auditor presenta hechos.*
-
-*   **Descripción del incumplimiento:** [Explicar qué requisito no se está cumpliendo de la norma].
-*   **Evidencia recopilada:** [Citar documentos revisados, muestras analizadas, logs observados, o entrevistas realizadas].
-*   **Alcance del impacto:** [¿Es un fallo puntual o sistémico?].
+**Descripción de la NC:**
+> (Describe objetivamente qué ha fallado y qué requisito se incumple)
 
 ---
 
-## 3. Análisis de Causa Raíz (RCA)
-*¿Por qué sucedió esto? (Aplicar técnica de los 5 Porqués).*
-1. ¿Por qué ocurrió? [Razón]
-2. ¿Por qué ocurrió esa razón? [Causa]
-3. ...
-*   **Causa Raíz Identificada:** [Conclusión clara del origen del fallo].
+## 2. 🛠️ Corrección Inmediata (Reparación)
+*Acción tomada para mitigar el impacto inmediato (ej. reparar un archivo, reiniciar un sistema).*
+> **Acción realizada:** 
 
 ---
 
-## 4. Plan de Acción Correctiva (CAP)
-*Definición de las medidas para eliminar la causa del incumplimiento.*
+## 3. 🧠 Análisis de Causa Raíz (RCA)
+*Análisis para eliminar el origen del problema y evitar recurrencia.*
 
-| Acción a realizar | Responsable | Fecha límite |
+*   **¿Es un problema ocasional o repetitivo?** [ ] Ocasional | [ ] Repetitivo
+*   **Análisis (Técnica de los 5 Porqués):**
+    1. ¿Por qué ocurrió? ...
+    2. ¿Por qué ocurrió lo anterior? ...
+    *...*
+*   **Causa Raíz Identificada:**
+
+---
+
+## 4. 🚀 Plan de Acciones Correctivas (PAC)
+*Acciones para ELIMINAR LAS CAUSAS detectadas.*
+
+| Acción a realizar | Responsable | Fecha Límite |
 | :--- | :--- | :--- |
-| [Descripción de la acción] | [Nombre/Rol] | YYYY-MM-DD |
+| | | |
 
 ---
 
-## 5. Verificación y Cierre
-*El auditor debe verificar que la acción fue eficaz, no solo que se realizó.*
+## 5. ✅ Verificación y Cierre
+*Evaluación de la eficacia. ¿La acción ha funcionado? ¿El problema ha desaparecido?*
 
-*   **Fecha de verificación:** YYYY-MM-DD
-*   **Evidencia de cierre:** [Documento, log o prueba que demuestra que el problema ha sido resuelto].
-*   **¿Es eficaz la acción?**: [SÍ / NO]
-*   **Estado final:** [CERRADA / ABIERTA - Pendiente de seguimiento]
+*   **Evidencias:** (Indicar registros, logs o documentos generados como prueba).
+*   **Valoración de resultados:** 
+*   **¿Es eficaz?** [ ] Sí | [ ] No
 
-> **Firma del Responsable del SGSI:** _________________________
+*   **Fecha de cierre:** 
+*   **Validado por:** 
 
 ---
 
 ## 🗺️ Navegación Rápida
-
-* 📁 [Volver al Centro de Plantillas](./index.md)
-* 📈 [Ir al Cuadro de Mando: Dashboard SoA](../Dashboard-SoA.md)
+* 📊 [Volver al Índice de Gobernanza y Estrategia](../)
+* 📁 [Volver a 03-Plantillas-y-Toolkits](../)
