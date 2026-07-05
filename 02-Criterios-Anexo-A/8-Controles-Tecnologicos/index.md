@@ -43,7 +43,3 @@ A continuación se listan los procedimientos de auditoría y checklists document
 
 * 🛡️ [Volver al Índice del Anexo A (Controles)](../)
 * 📈 [Ir al Cuadro de Mando: Dashboard SoA](../../Dashboard-SoA.md)
-## 🗺️ Navegación Rápida
-
-* 🛡️ [Volver al Índice del Anexo A (Controles)](../)
-* 📈 [Ir al Cuadro de Mando: Dashboard SoA](../../Dashboard-SoA.md)
