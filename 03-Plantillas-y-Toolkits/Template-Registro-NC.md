@@ -14,7 +14,7 @@ title: "Registro de NC y PAC"
 | **Referencia (ID):** | (Ej: NC-2026-001) |
 | **Fecha de Detección:** | YYYY-MM-DD |
 | **Apartado Norma/Proc:** | (Ej: ISO 27001 8.1) |
-| **Detectado por:** | |
+| **Detectado por:** | | |
 
 **Descripción de la NC:**
 > (Describe objetivamente qué ha fallado y qué requisito se incumple)
