@@ -8,6 +8,7 @@ title: "Registro de NC y PAC"
 > **Documento:** Ficha de gestión integral de No Conformidad | **Dominio:** Mejora Continua
 
 ## 1. 📝 Datos de la No Conformidad
+
 | Campo | Detalle |
 | :--- | :--- |
 | **Referencia (ID):** | (Ej: NC-2026-001) |
