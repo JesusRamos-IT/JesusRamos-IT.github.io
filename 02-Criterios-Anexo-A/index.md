@@ -41,7 +41,7 @@ Este directorio centraliza los criterios de inspección, objetivos de control y 
 | :--- | :--- | :--- | :---: |
 | **7.7** | Escritorio Limpio y Pantalla Clara | Evaluar pautas de bloqueo de sesiones y custodia de soportes impresos. | [ Explorar Guía ](./7-Controles-Fisicos/7.7-Proteccion-Puesto-Trabajo.md) |
 | **7.10** | Medios de Almacenamiento (Local) | Verificar el control operacional de soportes de datos en hardware local. | [ Explorar Guía ](./7-Controles-Fisicos/7.10-Almacenamiento-Equipo-Local.md) |
-| **7.10** | Gestión de Dispositivos Extraíbles | Controlar las restricciones, cifrado y políticas de uso de USBs o discos externos. | [ Explorar Guía ](./7-Controles-Fisicos/7.10-Dispositivos-Extraibles.md) |
+| **7.10** | Gestión de Dispositivos Extraíbles | Controlar las restricciones, cifrado y políticas de uso de USBs o discos externos. | [ Explorar Guía ](./7-Controles-Fisicos/7.10-Almacenamiento-Dispositivos-Extraibles.md) |
 | **7.13** | Dispositivos de Usuario Final (Corporativos) | Auditar los requisitos de endurecimiento (hardening) y gestión de terminales propios. | [ Explorar Guía ](./7-Controles-Fisicos/7.13-Moviles-Corporativos.md) |
 | **7.13** | Dispositivos de Usuario Final (BYOD) | Revisar los mecanismos de aislamiento y acceso seguro desde equipos personales. | [ Explorar Guía ](./7-Controles-Fisicos/7.13-Moviles-No-Corporativos.md) |
 
