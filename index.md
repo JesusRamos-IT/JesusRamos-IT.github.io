@@ -54,10 +54,10 @@ Bienvenid@ a mi entorno personal de auditoría. Este repositorio es un **Framewo
 
 <div style="display: flex; align-items: center; gap: 20px; margin-top: 20px;">
   <a href="https://www.linkedin.com/in/juan-jesus-ramos-sosa" target="_blank">
-    <img src="./assets/images/linkedin.jpg" alt="Perfil de LinkedIn de Juan Jesús Ramos" height="70">
+    <img src="./assets/images/linkedin.jpg" alt="Perfil de LinkedIn de Juan Jesús Ramos" height="20">
   </a>
 
   <a href="https://aenor.vottun.com/badgedetail?id=a11049a1-3df7-4d23-b060-ad3c39b8bbcd" target="_blank">
-    <img src="./assets/images/AuditorLiderISO27001.png" alt="Insignia AENOR Auditor Líder ISO 27001" height="70">
+    <img src="./assets/images/AuditorLiderISO27001.png" alt="Insignia AENOR Auditor Líder ISO 27001" height="20">
   </a>
 </div>
