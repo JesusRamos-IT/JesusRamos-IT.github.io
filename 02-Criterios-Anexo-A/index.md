@@ -52,22 +52,21 @@ Este directorio centraliza los criterios de inspección, objetivos de control y 
 
 | ID | Control Oficial (ISO 27001) | Propósito de la Guía de Evaluación | Acceso Directo |
 | :--- | :--- | :--- | :---: |
-| **8.1** | Seguridad de Redes (Acceso Externo) | Verificar el control de perímetros lógicos, segmentación y accesos remotos. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.1-Acceso-Redes-No-Corporativas.md) |
-| **8.2** | Gestión de Derechos de Acceso | Revisar la asignación de privilegios técnicos y el principio de mínimo privilegio. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.2-Acceso-Control-Informacion.md) |
-| **8.5** | Autenticación Segura (Contraseñas) | Validar directivas de complejidad, uso de doble factor (MFA) y rotación. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.5-Contrasenas.md) |
-| **8.7** | Protección contra Malware | Auditar el estado de los agentes EDR/antivirus y políticas de exclusión. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.7-Antimalware.md) |
-| **8.10** | Eliminación de Información (Borrado Seguro)| Comprobar técnicas de sobrescritura lógica o destrucción de soportes en desuso. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.10-Borrado-Seguro.md) |
-| **8.11** | Seguridad en el Correo Electrónico | Evaluar configuraciones antiphishing, pasarelas de correo y registros DNS. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.11-Correo-Electronico.md) |
-| **8.12** | Seguridad de los Servicios de Red | Controlar el inventario de puertos, monitorización de tráfico y cortafuegos. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.12-Almacenamiento-Red-Corporativa.md) |
-| **8.13** | Copias de Seguridad (Backup) | Verificar la inmutabilidad de copias, ventanas de backup y test de restauración. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.13-Sistema-Copias-Seguridad.md) |
-| **8.15** | Registro de Actividades (Logs) | Auditar la recolección, centralización en SIEM y custodia a prueba de manipulaciones. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.15-Gestion-Logs.md) |
-| **8.19** | Instalación de Software (Parches) | Analizar los ciclos de actualización de sistemas y remediación de exploits CVE. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.19-Actualizacion-Software.md) |
-| **8.19** | Restricciones de Instalación | Validar las directivas de restricción de software y listas blancas de ejecución. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.19-Aplicaciones-Permitidas.md) |
-| **8.22** | Filtrado de Contenido (Web) | Revisar las herramientas perimetrales o de endpoint para el bloqueo web nocivo. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.22-Pagina-Web.md) |
-| **8.24** | Uso de Criptografía (Cifrado) | Validar la solidez de las primitivas criptográficas aplicadas en reposo y tránsito. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.24-Tecnicas-Criptograficas.md) |
-| **8.28** | Recopilación de Evidencias (Auditoría) | Garantizar la protección de las herramientas de auditoría frente a interferencias. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.28-Auditorias-Sistema.md) |
-| **8.32** | Seguridad en Servicios Cloud | Auditar el control de accesos IAM y hardening de paneles de administración en la nube. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.32-Almacenamiento-Nube.md) |
-
+| **8.1** | Dispositivos de usuario final | Verificar el control de perímetros lógicos y accesos remotos. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.1-Acceso-Redes-No-Corporativas.md) |
+| **8.2** | Derechos de acceso | Revisar la asignación de privilegios técnicos y segregación de funciones. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.2-Acceso-Control-Informacion.md) |
+| **8.5** | Gestión de información de autenticación secreta | Validar directivas de complejidad, uso de MFA y rotación de credenciales. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.5-Contrasenias.md) |
+| **8.7** | Protección contra malware | Auditar el estado de los agentes EDR/antivirus y políticas de exclusión. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.7-Antimalware.md) |
+| **8.10** | Eliminación de información | Comprobar técnicas de sobrescritura lógica o destrucción de soportes. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.10-Borrado-Seguro.md) |
+| **8.11** | Enmascaramiento de información (Correo) | Evaluar configuraciones antiphishing, pasarelas de correo y registros DNS. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.11-Correo-Electronico.md) |
+| **8.12** | Prevención de fuga de datos | Controlar el inventario de puertos, monitorización de tráfico y reglas DLP. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.12-Almacenamiento-Red-Corporativa.md) |
+| **8.13** | Copias de seguridad (Backup) | Verificar la inmutabilidad de copias, ventanas de backup y test de restauración. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.13-Sistema-Copias-Seguridad.md) |
+| **8.15** | Registro de eventos | Auditar la recolección, centralización en SIEM y custodia de logs. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.15-Gestion-Logs.md) |
+| **8.19** | Gestión de vulnerabilidades técnicas | Analizar ciclos de actualización de sistemas y remediación de exploits. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.19-Actualizacion-Software.md) |
+| **8.19** | Configuración técnica (Software) | Validar directivas de restricción de software y listas blancas. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.19-Aplicaciones-Permitidas.md) |
+| **8.22** | Seguridad de servicios web | Revisar herramientas de filtrado web y protección de portales. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.22-Pagina-Web.md) |
+| **8.23** | Seguridad de los servicios en la nube | Auditar control de accesos IAM y hardening en entornos Cloud. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.32-Almacenamiento-Nube.md) |
+| **8.24** | Uso de la criptografía | Validar solidez de algoritmos aplicados en reposo y tránsito. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.24-Tecnicas-Criptograficas.md) |
+| **8.26** | Seguridad de la auditoría | Garantizar la protección de herramientas de auditoría frente a interferencias. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.28-Auditorias-Sistema.md) |
 ---
 
 > **Nota de Control Técnico:** Este índice unificado constituye la base operativa de la Fase 2 de auditoría. El análisis pormenorizado de las muestras recolectadas en estos enlaces proporcionará las evidencias objetivas necesarias para validar el grado de cumplimiento real del Anexo A frente a lo declarado en el SoA de la organización.
