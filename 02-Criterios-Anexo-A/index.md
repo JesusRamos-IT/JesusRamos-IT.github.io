@@ -66,7 +66,7 @@ Este directorio centraliza los criterios de inspección, objetivos de control y 
 | **8.22** | Seguridad de servicios web | Revisar herramientas de filtrado web y protección de portales. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.22-Pagina-Web.md) |
 | **8.23** | Seguridad de los servicios en la nube | Auditar control de accesos IAM y hardening en entornos Cloud. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.32-Almacenamiento-Nube.md) |
 | **8.24** | Uso de la criptografía | Validar solidez de algoritmos aplicados en reposo y tránsito. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.24-Tecnicas-Criptograficas.md) |
-| **8.26** | Seguridad de la auditoría | Garantizar la protección de herramientas de auditoría frente a interferencias. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.28-Auditorias-Sistema.md) |
+| **8.28** | Seguridad de la auditoría | Garantizar la protección de herramientas de auditoría frente a interferencias. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.28-Auditorias-Sistema.md) |
 ---
 
 > **Nota de Control Técnico:** Este índice unificado constituye la base operativa de la Fase 2 de auditoría. El análisis pormenorizado de las muestras recolectadas en estos enlaces proporcionará las evidencias objetivas necesarias para validar el grado de cumplimiento real del Anexo A frente a lo declarado en el SoA de la organización.
