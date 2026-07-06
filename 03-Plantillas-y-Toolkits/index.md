@@ -15,7 +15,6 @@ Este directorio centraliza los modelos maestros, cuadernos de campo y artefactos
 | [**Plantilla-Registro-NC**](./Template-Registro-NC.md) | Ficha integral para la gestión completa de desviaciones: desde la declaración y clasificación del hallazgo, hasta el Análisis de Causa Raíz (RCA) y el Plan de Acciones Correctivas (PAC). |
 | [**Plantilla-SOP-Gestion**](./Template-SOP-Gestion.md) | Modelo para documentar procesos organizativos y administrativos, asegurando la vinculación directa con los controles del Anexo A y la generación de registros. |
 | [**Plantilla-SOP-Tecnico**](./Template-SOP-Tecnico.md) | Modelo directo para estandarizar procedimientos de IT (despliegues, hardening, automatizaciones). Enfocado en la trazabilidad técnica (logs, GPOs, SIEM) y la ejecución paso a paso. |
-| [**Plantilla-NC**](./Plantilla-NC.md) | Modelo para estandarizar el cumplimiento de los registros para las No Conformidades (NC). |
 
 ---
 
