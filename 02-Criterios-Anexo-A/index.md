@@ -54,7 +54,7 @@ Este directorio centraliza los criterios de inspección, objetivos de control y 
 | :--- | :--- | :--- | :---: |
 | **8.1** | Dispositivos de usuario final | Verificar el control de perímetros lógicos y accesos remotos. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.1-Acceso-Redes-No-Corporativas.md) |
 | **8.2** | Derechos de acceso | Revisar la asignación de privilegios técnicos y segregación de funciones. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.2-Acceso-Control-Informacion.md) |
-| **8.5** | Gestión de información de autenticación secreta | Validar directivas de complejidad, uso de MFA y rotación de credenciales. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.5-Contrasenias.md) |
+| **8.5** | Gestión de información de autenticación secreta | Validar directivas de complejidad, uso de MFA y rotación de credenciales. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.5-Contrasenas.md) |
 | **8.7** | Protección contra malware | Auditar el estado de los agentes EDR/antivirus y políticas de exclusión. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.7-Antimalware.md) |
 | **8.10** | Eliminación de información | Comprobar técnicas de sobrescritura lógica o destrucción de soportes. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.10-Borrado-Seguro.md) |
 | **8.11** | Enmascaramiento de información (Correo) | Evaluar configuraciones antiphishing, pasarelas de correo y registros DNS. | [ Explorar Guía ](./8-Controles-Tecnologicos/8.11-Correo-Electronico.md) |
