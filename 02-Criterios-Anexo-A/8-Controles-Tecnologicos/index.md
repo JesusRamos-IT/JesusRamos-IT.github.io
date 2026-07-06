@@ -32,7 +32,7 @@ A continuación se listan los procedimientos de auditoría y checklists document
 | [**8.22 - Seguridad servicios web**](./8.22-Pagina-Web.md) | Filtrado web y protección de portales corporativos. |
 | [**8.23 - Seguridad servicios en la nube**](./8.32-Almacenamiento-Nube.md) | Hardening y gobierno en entornos Cloud (SaaS/PaaS/IaaS). |
 | [**8.24 - Uso de criptografía**](./8.24-Tecnicas-Criptograficas.md) | Gestión de claves y algoritmos de cifrado fuertes. |
-| [**8.26 - Auditoría técnica**](./8.28-Auditorias-Sistema.md) | Planificación y autorización de pruebas técnicas. |
+| [**8.28 - Auditoría técnica**](./8.28-Auditorias-Sistema.md) | Planificación y autorización de pruebas técnicas. |
 
 ---
 > **Nota del Auditor:** En la revisión de los controles tecnológicos, la evidencia puramente documental es insuficiente. Como Auditor Líder, se deben solicitar muestras técnicas en tiempo real (GPOs, logs, informes de restauración).
