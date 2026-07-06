@@ -20,7 +20,7 @@ A continuación se listan los procedimientos de auditoría y checklists document
 | :--- | :--- |
 | [**8.1 - Dispositivos de usuario final**](./8.1-Acceso-Redes-No-Corporativas.md) | Verificación de requisitos de seguridad en dispositivos de acceso externo. |
 | [**8.2 - Derechos de acceso**](./8.2-Acceso-Control-Informacion.md) | Control de privilegios elevados y segregación de funciones. |
-| [**8.5 - Gestión de información de autenticación**](./8.5-Contrasenias.md) | Validación de contraseñas robustas y despliegue de MFA. |
+| [**8.5 - Gestión de información de autenticación**](./8.5-Contrasenas.md) | Validación de contraseñas robustas y despliegue de MFA. |
 | [**8.7 - Protección contra malware**](./8.7-Antimalware.md) | Comprobación de despliegue de EDR/antimalware y alertas centrales. |
 | [**8.10 - Borrado de información**](./8.10-Borrado-Seguro.md) | Revisión de métodos de eliminación irreversible de datos. |
 | [**8.11 - Gestión de comunicaciones**](./8.11-Correo-Electronico.md) | Auditoría de seguridad en pasarelas de correo y cifrado. |
