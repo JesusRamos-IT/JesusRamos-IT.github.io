@@ -50,5 +50,9 @@ Bienvenid@ a mi entorno personal de auditoría. Este repositorio es un **Framewo
 
 ---
 
-## 📬 Contacto
-[LinkedIn](https://www.linkedin.com/in/juan-jesus-ramos-sosa)
+## 📬 Contacto & Credenciales
+
+[LinkedIn](https://www.linkedin.com/in/juan-jesus-ramos-sosa) <br><br>
+<a href="TU_ENLACE_DE_VALIDACION_AQUI" target="_blank">
+  <img src="./AuditorLiderISO27001.png" alt="Insignia AENOR Auditor Líder ISO 27001" width="130">
+</a>
