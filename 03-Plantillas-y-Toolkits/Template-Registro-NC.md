@@ -1,62 +1,56 @@
 ---
 layout: default
-title: "Registro de NC y PAC"
+title: "Plantilla Registro NC"
 ---
 
-# 📋 Registro de NC y Plan de Acciones Correctivas (PAC)
+# 📝 Informe de No Conformidad (NC)
 
-> **Documento:** Ficha de gestión integral de No Conformidad | **Dominio:** Mejora Continua
+> **Referencia del Hallazgo:** `NC-202X-00X`
+> **Fecha de Auditoría:** `DD/MM/AAAA` | **Auditor Líder:** `Nombre del auditor líder`
+> **Área / Departamento Auditado:** `[Ej. Infraestructura IT / Diseño / Ingeniería]`
 
-## 1. 📝 Datos de la No Conformidad
+---
+
+## 🔴 1. Descripción del Hallazgo
 
 | Campo | Detalle |
 | :--- | :--- |
-| **Referencia (ID):** | (Ej: NC-2026-001) |
-| **Fecha de Detección:** | YYYY-MM-DD |
-| **Apartado Norma/Proc:** | (Ej: ISO 27001 8.1) |
-| **Detectado por:** | | |
-
-**Descripción de la NC:**
-> (Describe objetivamente qué ha fallado y qué requisito se incumple)
+| **Requisito / Norma:** | **ISO 27001:2022** - Cláusula `[X.X]` / Control `[A.X.X]` |
+| **Clasificación:** | [ ] NC Mayor &nbsp;&nbsp;&nbsp; [ ] NC Menor &nbsp;&nbsp;&nbsp; [ ] Observación |
+| **Declaración de la NC:** | *Describir el problema exacto frente al requisito normativo de forma clara y directa.* |
+| **Evidencia Objetiva:** | *Documentos, registros, configuraciones o entrevistas que demuestran el incumplimiento (ej. "Se revisa el servidor X y no se evidencia el registro Y").* |
 
 ---
 
-## 2. 🛠️ Corrección Inmediata (Reparación)
-*Acción tomada para mitigar el impacto inmediato (ej. reparar un archivo, reiniciar un sistema).*
-> **Acción realizada:** 
+## 🔍 2. Análisis de Causa Raíz 
+*(A completar por el responsable del área auditada)*
+
+> **Metodología sugerida:** 5 Porqués / Diagrama de Ishikawa.
+> **Causa Identificada:** 
+> *[Escribir aquí la causa que originó el problema. No describir el síntoma, sino el origen real (ej. falta de recursos, procedimiento desactualizado, error humano por falta de formación).]*
 
 ---
 
-## 3. 🧠 Análisis de Causa Raíz (RCA)
-*Análisis para eliminar el origen del problema y evitar recurrencia.*
+## 🛠️ 3. Plan de Acción Correctiva (PAC)
+*(A completar por el responsable del área auditada)*
 
-*   **¿Es un problema ocasional o repetitivo?** [ ] Ocasional | [ ] Repetitivo
-*   **Análisis (Técnica de los 5 Porqués):**
-    1. ¿Por qué ocurrió? ...
-    2. ¿Por qué ocurrió lo anterior? ...
-    *...*
-*   **Causa Raíz Identificada:**
-
----
-
-## 4. 🚀 Plan de Acciones Correctivas (PAC)
-*Acciones para ELIMINAR LAS CAUSAS detectadas.*
-
-| Acción a realizar | Responsable | Fecha Límite |
-| :--- | :--- | :--- |
-| | | |
+| Acción Propuesta | Responsable | Fecha Límite | Estado |
+| :--- | :--- | :--- | :---: |
+| **1. Contención:** *(Acción inmediata para frenar el impacto)* | `[Nombre]` | `DD/MM/AAAA` | 🟡 Pendiente |
+| **2. Corrección:** *(Acción para eliminar la causa raíz)* | `[Nombre]` | `DD/MM/AAAA` | 🟡 Pendiente |
+| **3. Prevención:** *(Acción para que no vuelva a ocurrir)* | `[Nombre]` | `DD/MM/AAAA` | 🟡 Pendiente |
 
 ---
 
-## 5. ✅ Verificación y Cierre
-*Evaluación de la eficacia. ¿La acción ha funcionado? ¿El problema ha desaparecido?*
+## ✅ 4. Verificación y Cierre 
+*(A completar por el Auditor)*
 
-*   **Evidencias:** (Indicar registros, logs o documentos generados como prueba).
-*   **Valoración de resultados:** 
-*   **¿Es eficaz?** [ ] Sí | [ ] No
-
-*   **Fecha de cierre:** 
-*   **Validado por:** 
+| Verificación de Eficacia | Detalle |
+| :--- | :--- |
+| **Fecha de Revisión:** | `DD/MM/AAAA` |
+| **Evidencia de Cierre:** | *Descripción de las pruebas revisadas que demuestran que las acciones se han implementado y son eficaces.* |
+| **Estado Final:** | **[ ] CERRADA** &nbsp;&nbsp;&nbsp; **[ ] ABIERTA** *(Requiere nuevo plan de acción)* |
+| **Firma del Auditor:** | *Nombre del auditor* |
 
 ---
 
